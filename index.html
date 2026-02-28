@@ -1,0 +1,672 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Population Quiz – Top 20 Countries</title>
+
+  <!-- Linux Libertine — the same serif font Wikipedia uses for its wordmark
+       and headings. Falls back to Georgia, then generic serif. -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Linux+Libertine+Display&family=Source+Sans+3:wght@400;600&display=swap"
+    rel="stylesheet"
+  />
+
+  <style>
+    /* -----------------------------------------------------------------------
+       CSS variables — Wikipedia's palette
+    ----------------------------------------------------------------------- */
+    :root {
+      --bg:           #f8f9fa;   /* Wikipedia page background */
+      --surface:      #ffffff;
+      --border:       #a2a9b1;   /* Wikipedia's standard border grey */
+      --border-light: #eaecf0;
+      --text:         #202122;   /* Wikipedia body text */
+      --text-muted:   #54595d;
+      --link:         #3366cc;   /* Wikipedia link blue */
+      --link-hover:   #447ff5;
+
+      --green:        #14866d;   /* Wikipedia "positive" green */
+      --green-bg:     #d5fdf4;
+      --red:          #d33;      /* Wikipedia "negative" red */
+      --red-bg:       #fee7e6;
+      --yellow:       #ac6600;   /* Wikipedia "warning" amber */
+      --yellow-bg:    #fef6e7;
+
+      --bar-height:   42px;
+      --radius:       2px;       /* Wikipedia uses very slight rounding */
+      --transition:   0.35s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    /* -----------------------------------------------------------------------
+       Reset & base
+    ----------------------------------------------------------------------- */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: 'Source Sans 3', 'Liberation Sans', Arial, sans-serif;
+      font-size: 14px;
+      color: var(--text);
+      background: var(--bg);
+      min-height: 100vh;
+      padding: 24px 16px 64px;
+    }
+
+    /* -----------------------------------------------------------------------
+       Page layout — mimics a Wikipedia article column
+    ----------------------------------------------------------------------- */
+    .page {
+      max-width: 680px;
+      margin: 0 auto;
+    }
+
+    /* Site wordmark area */
+    .wordmark {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 1px solid var(--border-light);
+      color: var(--text-muted);
+      font-size: 12px;
+    }
+
+    .wordmark-logo {
+      width: 36px;
+      height: 36px;
+      /* Wikipedia puzzle-globe approximation using CSS */
+      border-radius: 50%;
+      background: conic-gradient(
+        #c8c8c8 0deg 45deg, #e8e8e8 45deg 90deg,
+        #b0b0b0 90deg 135deg, #d8d8d8 135deg 180deg,
+        #c0c0c0 180deg 225deg, #e0e0e0 225deg 270deg,
+        #b8b8b8 270deg 315deg, #d0d0d0 315deg 360deg
+      );
+      border: 1px solid var(--border);
+      flex-shrink: 0;
+    }
+
+    /* Article title — Linux Libertine like Wikipedia's h1 */
+    h1 {
+      font-family: 'Linux Libertine Display', 'Linux Libertine', Georgia, serif;
+      font-size: 28px;
+      font-weight: normal;
+      line-height: 1.3;
+      color: var(--text);
+      border-bottom: 1px solid var(--border-light);
+      padding-bottom: 4px;
+      margin-bottom: 16px;
+    }
+
+    /* Lead paragraph */
+    .lead {
+      color: var(--text);
+      line-height: 1.6;
+      margin-bottom: 20px;
+    }
+
+    /* -----------------------------------------------------------------------
+       Info box — Wikipedia-style right-aligned infobox feel, but centered
+       for the score/strike counters
+    ----------------------------------------------------------------------- */
+    .scoreboard {
+      display: flex;
+      gap: 0;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      overflow: hidden;
+      margin-bottom: 20px;
+      background: var(--surface);
+    }
+
+    .score-cell {
+      flex: 1;
+      padding: 10px 16px;
+      text-align: center;
+      border-right: 1px solid var(--border-light);
+    }
+    .score-cell:last-child { border-right: none; }
+
+    .score-cell .label {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      color: var(--text-muted);
+      margin-bottom: 2px;
+    }
+
+    .score-cell .value {
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--text);
+      line-height: 1;
+    }
+
+    #strike-value { color: var(--red); }
+
+    /* Strike pips */
+    .strike-pips {
+      display: flex;
+      justify-content: center;
+      gap: 5px;
+      margin-top: 4px;
+    }
+    .pip {
+      width: 10px; height: 10px;
+      border-radius: 50%;
+      border: 1.5px solid var(--border);
+      background: var(--surface);
+      transition: background var(--transition), border-color var(--transition);
+    }
+    .pip.filled {
+      background: var(--red);
+      border-color: var(--red);
+    }
+
+    /* -----------------------------------------------------------------------
+       Input area
+    ----------------------------------------------------------------------- */
+    .input-area {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+
+    input[type="text"] {
+      flex: 1;
+      height: 36px;
+      padding: 0 10px;
+      font-family: inherit;
+      font-size: 14px;
+      color: var(--text);
+      background: var(--surface);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+    input[type="text"]:focus {
+      border-color: var(--link);
+      box-shadow: 0 0 0 2px rgba(51, 102, 204, 0.15);
+    }
+    input[type="text"]:disabled {
+      background: var(--bg);
+      color: var(--text-muted);
+    }
+
+    button {
+      height: 36px;
+      padding: 0 16px;
+      font-family: inherit;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      border-radius: var(--radius);
+      border: 1px solid;
+      transition: background 0.15s, color 0.15s;
+    }
+
+    .btn-primary {
+      background: #3366cc;
+      color: #fff;
+      border-color: #2a55b0;
+    }
+    .btn-primary:hover:not(:disabled) { background: #2a55b0; }
+    .btn-primary:disabled {
+      background: var(--bg);
+      color: var(--text-muted);
+      border-color: var(--border);
+      cursor: default;
+    }
+
+    .btn-secondary {
+      background: var(--surface);
+      color: var(--text);
+      border-color: var(--border);
+    }
+    .btn-secondary:hover { background: var(--bg); }
+
+    /* -----------------------------------------------------------------------
+       Results list
+    ----------------------------------------------------------------------- */
+    #results-list {
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+      /* min-height keeps the area stable as bars are added */
+      min-height: 20px;
+    }
+
+    /* Individual guess bar */
+    .bar {
+      display: flex;
+      align-items: center;
+      height: var(--bar-height);
+      padding: 0 12px;
+      border-radius: var(--radius);
+      border: 1px solid transparent;
+      font-size: 14px;
+      gap: 10px;
+      /* Bars animate in from the left */
+      animation: slideIn 0.25s ease forwards;
+      transition: order var(--transition);
+    }
+
+    @keyframes slideIn {
+      from { opacity: 0; transform: translateX(-12px); }
+      to   { opacity: 1; transform: translateX(0); }
+    }
+
+    .bar.correct {
+      background: var(--green-bg);
+      border-color: #a3d9ce;
+      color: var(--text);
+    }
+    .bar.incorrect {
+      background: var(--red-bg);
+      border-color: #f4b8b5;
+      color: var(--text-muted);
+    }
+    .bar.revealed {
+      background: var(--yellow-bg);
+      border-color: #f0d090;
+      color: var(--text-muted);
+      animation: slideIn 0.3s ease forwards;
+    }
+
+    .bar-rank {
+      font-size: 12px;
+      font-weight: 600;
+      color: var(--text-muted);
+      width: 28px;
+      text-align: right;
+      flex-shrink: 0;
+    }
+    .bar.correct   .bar-rank { color: var(--green); }
+    .bar.revealed  .bar-rank { color: var(--yellow); }
+
+    .bar-name {
+      flex: 1;
+      /* Capitalise first letter of each word */
+      text-transform: capitalize;
+    }
+
+    .bar-tag {
+      font-size: 11px;
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      padding: 2px 6px;
+      border-radius: 2px;
+      font-weight: 600;
+      flex-shrink: 0;
+    }
+    .bar.correct  .bar-tag { background: var(--green); color: #fff; }
+    .bar.incorrect .bar-tag { background: var(--red);  color: #fff; }
+    .bar.revealed  .bar-tag { background: var(--yellow); color: #fff; }
+
+    /* -----------------------------------------------------------------------
+       End-game panel
+    ----------------------------------------------------------------------- */
+    #end-panel {
+      display: none;
+      margin-top: 24px;
+      padding: 16px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      background: var(--surface);
+    }
+
+    #end-panel h2 {
+      font-family: 'Linux Libertine Display', Georgia, serif;
+      font-size: 20px;
+      font-weight: normal;
+      margin-bottom: 8px;
+    }
+
+    #end-panel p {
+      color: var(--text-muted);
+      line-height: 1.6;
+      margin-bottom: 16px;
+    }
+
+    .end-actions {
+      display: flex;
+      gap: 8px;
+      flex-wrap: wrap;
+    }
+
+    /* -----------------------------------------------------------------------
+       Section heading (mimics Wikipedia's "== Heading ==" style)
+    ----------------------------------------------------------------------- */
+    .section-heading {
+      font-family: 'Linux Libertine Display', Georgia, serif;
+      font-size: 18px;
+      font-weight: normal;
+      border-bottom: 1px solid var(--border-light);
+      padding-bottom: 4px;
+      margin-bottom: 12px;
+      margin-top: 24px;
+      color: var(--text);
+    }
+
+    /* -----------------------------------------------------------------------
+       Responsive
+    ----------------------------------------------------------------------- */
+    @media (max-width: 480px) {
+      h1 { font-size: 22px; }
+      .score-cell .value { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="page">
+
+  <!-- Wordmark -->
+  <div class="wordmark">
+    <div class="wordmark-logo"></div>
+    <span>Population Quiz &nbsp;·&nbsp; Based on UN data via Wikipedia</span>
+  </div>
+
+  <!-- Article title -->
+  <h1>Top 20 Most Populous Countries</h1>
+
+  <p class="lead">
+    Name as many of the 20 most populous countries in the world as you can.
+    You have <strong>3 strikes</strong> — each country you name that is
+    <em>not</em> in the top 20 costs you one. The game ends when you use all
+    three strikes or name all 20 correctly.
+  </p>
+
+  <!-- Scoreboard -->
+  <div class="scoreboard">
+    <div class="score-cell">
+      <div class="label">Correct</div>
+      <div class="value" id="correct-value">0</div>
+    </div>
+    <div class="score-cell">
+      <div class="label">Remaining</div>
+      <div class="value" id="remaining-value">20</div>
+    </div>
+    <div class="score-cell">
+      <div class="label">Strikes</div>
+      <div class="value" id="strike-value">0</div>
+      <div class="strike-pips">
+        <div class="pip" id="pip-1"></div>
+        <div class="pip" id="pip-2"></div>
+        <div class="pip" id="pip-3"></div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Input -->
+  <div class="input-area">
+    <input
+      type="text"
+      id="guess-input"
+      placeholder="Enter a country name…"
+      autocomplete="off"
+      autocorrect="off"
+      spellcheck="false"
+    />
+    <button class="btn-primary" id="submit-btn">Submit</button>
+  </div>
+
+  <!-- Results section -->
+  <div class="section-heading" id="results-heading" style="display:none;">
+    Guesses
+  </div>
+  <div id="results-list"></div>
+
+  <!-- End-game panel -->
+  <div id="end-panel">
+    <h2 id="end-title"></h2>
+    <p id="end-body"></p>
+    <div class="end-actions">
+      <button class="btn-primary"   id="retry-btn">Play again</button>
+      <button class="btn-secondary" id="reveal-btn">Reveal remaining countries</button>
+    </div>
+  </div>
+
+</div><!-- /.page -->
+
+<script>
+  // -------------------------------------------------------------------------
+  // Configuration
+  // Replace this URL with your actual Render backend URL once deployed.
+  // While testing locally, you can point it at http://127.0.0.1:5000
+  // -------------------------------------------------------------------------
+  const BACKEND_URL = "https://populationquizapp.onrender.com";
+
+  // -------------------------------------------------------------------------
+  // Game state
+  // -------------------------------------------------------------------------
+  let strikes      = 0;
+  let correctCount = 0;
+  const MAX_STRIKES   = 3;
+  const TOTAL_CORRECT = 20;
+
+  // Tracks which countries the player has already guessed correctly,
+  // so we can filter them out of the reveal list.
+  // Keys are normalised country names, values are rank numbers.
+  const guessedCorrect = {};
+
+  // Tracks incorrect guesses to prevent duplicate strikes.
+  const guessedIncorrect = new Set();
+
+  let gameOver = false;
+
+  // -------------------------------------------------------------------------
+  // DOM references
+  // -------------------------------------------------------------------------
+  const input          = document.getElementById("guess-input");
+  const submitBtn      = document.getElementById("submit-btn");
+  const resultsList    = document.getElementById("results-list");
+  const resultsHeading = document.getElementById("results-heading");
+  const endPanel       = document.getElementById("end-panel");
+  const endTitle       = document.getElementById("end-title");
+  const endBody        = document.getElementById("end-body");
+  const retryBtn       = document.getElementById("retry-btn");
+  const revealBtn      = document.getElementById("reveal-btn");
+  const correctValue   = document.getElementById("correct-value");
+  const remainingValue = document.getElementById("remaining-value");
+  const strikeValue    = document.getElementById("strike-value");
+  const pips           = [
+    document.getElementById("pip-1"),
+    document.getElementById("pip-2"),
+    document.getElementById("pip-3"),
+  ];
+
+  // -------------------------------------------------------------------------
+  // Submit a guess
+  // -------------------------------------------------------------------------
+  async function submitGuess() {
+    if (gameOver) return;
+
+    const guess = input.value.trim();
+    if (!guess) return;
+
+    input.value = "";
+    input.focus();
+
+    // Show the results section heading on first guess
+    resultsHeading.style.display = "";
+
+    // Send the guess to the backend
+    let result;
+    try {
+      const response = await fetch(`${BACKEND_URL}/check`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify({ guess }),
+      });
+      result = await response.json();
+    } catch (err) {
+      // Network error — show a temporary message and bail
+      addBar("⚠ Could not reach server. Check your connection.", "incorrect", null, "Error");
+      return;
+    }
+
+    const normalised = result.normalised;
+
+    // Ignore duplicate guesses silently
+    if (normalised in guessedCorrect || guessedIncorrect.has(normalised)) {
+      return;
+    }
+
+    if (result.correct) {
+      // ----- Correct guess -----
+      correctCount++;
+      guessedCorrect[normalised] = result.rank;
+      updateScoreboard();
+      addBar(normalised, "correct", result.rank, `#${result.rank}`);
+      sortBars();
+
+      if (correctCount === TOTAL_CORRECT) {
+        triggerEndGame("perfect");
+      }
+    } else {
+      // ----- Incorrect guess -----
+      strikes++;
+      guessedIncorrect.add(normalised);
+      updateScoreboard();
+      addBar(normalised, "incorrect", 999, "✗");
+
+      if (strikes >= MAX_STRIKES) {
+        triggerEndGame("strikes");
+      }
+    }
+  }
+
+  // -------------------------------------------------------------------------
+  // Add a bar to the results list
+  // -------------------------------------------------------------------------
+  function addBar(name, type, rank, tagText) {
+    const bar = document.createElement("div");
+    bar.className = `bar ${type}`;
+    // Store rank as a data attribute so we can sort by it
+    bar.dataset.rank = rank ?? 999;
+
+    bar.innerHTML = `
+      <span class="bar-rank">${rank && rank < 900 ? rank : ""}</span>
+      <span class="bar-name">${escapeHtml(name)}</span>
+      <span class="bar-tag">${escapeHtml(tagText)}</span>
+    `;
+
+    resultsList.appendChild(bar);
+  }
+
+  // -------------------------------------------------------------------------
+  // Sort bars: correct/revealed by rank ascending, incorrect to the bottom
+  // -------------------------------------------------------------------------
+  function sortBars() {
+    const bars = Array.from(resultsList.querySelectorAll(".bar"));
+    bars.sort((a, b) => parseInt(a.dataset.rank) - parseInt(b.dataset.rank));
+    // Re-append in sorted order (DOM move, no re-render flicker)
+    bars.forEach(bar => resultsList.appendChild(bar));
+  }
+
+  // -------------------------------------------------------------------------
+  // Update the scoreboard display
+  // -------------------------------------------------------------------------
+  function updateScoreboard() {
+    correctValue.textContent  = correctCount;
+    remainingValue.textContent = TOTAL_CORRECT - correctCount;
+    strikeValue.textContent   = strikes;
+
+    // Fill strike pips
+    pips.forEach((pip, i) => {
+      pip.classList.toggle("filled", i < strikes);
+    });
+  }
+
+  // -------------------------------------------------------------------------
+  // End the game
+  // -------------------------------------------------------------------------
+  function triggerEndGame(reason) {
+    gameOver = true;
+    input.disabled   = true;
+    submitBtn.disabled = true;
+
+    if (reason === "perfect") {
+      endTitle.textContent = "Perfect score!";
+      endBody.textContent  =
+        `You named all 20 of the most populous countries. ` +
+        `Nerd.`;
+      revealBtn.style.display = "none";
+    } else {
+      endTitle.textContent = "Game over";
+      endBody.textContent  =
+        `You used all 3 strikes. You correctly named ` +
+        `${correctCount} out of ${TOTAL_CORRECT} countries. ` +
+        `Would you like to see the ones you missed?`;
+      revealBtn.style.display = "";
+    }
+
+    endPanel.style.display = "block";
+  }
+
+  // -------------------------------------------------------------------------
+  // Reveal remaining countries
+  // -------------------------------------------------------------------------
+  async function revealRemaining() {
+    revealBtn.disabled = true;
+    revealBtn.textContent = "Loading…";
+
+    let countries;
+    try {
+      const response = await fetch(`${BACKEND_URL}/countries`);
+      const data     = await response.json();
+      countries      = data.countries; // array of normalised names in rank order
+    } catch (err) {
+      revealBtn.textContent = "Could not reach server";
+      return;
+    }
+
+    // countries is ordered by rank (index 0 = rank 1)
+    countries.forEach((name, index) => {
+      const rank = index + 1;
+      // Skip countries the player already guessed correctly
+      if (name in guessedCorrect) return;
+
+      addBar(name, "revealed", rank, "—");
+    });
+
+    sortBars();
+    revealBtn.style.display = "none";
+  }
+
+  // -------------------------------------------------------------------------
+  // Event listeners
+  // -------------------------------------------------------------------------
+  submitBtn.addEventListener("click", submitGuess);
+
+  input.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") submitGuess();
+  });
+
+  retryBtn.addEventListener("click", () => {
+    window.location.reload();
+  });
+
+  revealBtn.addEventListener("click", revealRemaining);
+
+  // Focus the input on load so the player can start typing immediately
+  input.focus();
+
+  // -------------------------------------------------------------------------
+  // Utility: escape HTML to prevent XSS from user input appearing in the DOM
+  // -------------------------------------------------------------------------
+  function escapeHtml(str) {
+    return String(str)
+      .replace(/&/g, "&amp;")
+      .replace(/</g, "&lt;")
+      .replace(/>/g, "&gt;")
+      .replace(/"/g, "&quot;");
+  }
+</script>
+
+</body>
+</html>
