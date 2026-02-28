@@ -57,12 +57,10 @@ ALIASES = {
     "britain":                          "united kingdom",
     "great britain":                    "united kingdom",
     "england":                          "united kingdom",
-    "south korea":                      "korea, south",   # adjust if Wikipedia uses a different form
-    "north korea":                      "korea, north",
-    "iran":                             "iran",
     "persia":                           "iran",
-    "myanmar":                          "myanmar",
     "burma":                            "myanmar",
+    "dprk":                             "north korea",
+
 }
 
 
