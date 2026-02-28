@@ -87,7 +87,7 @@ def fetch_wikitext() -> str:
     # This is part of their API etiquette policy. The string should identify your
     # app and provide a contact point. Adjust the name/email to your own details.
     headers = {
-        "User-Agent": "PopulationQuizApp/1.0 (https://github.com/victornorton/PopulationQuizApp; vanorton@andrew.cmu.edu)"
+        "User-Agent": "PopulationQuizApp/1.0 (https://github.com/victornorton/113proj2; vanorton@andrew.cmu.edu)"
     }
 
     # requests.get() sends an HTTP GET request — like your browser visiting a URL.
