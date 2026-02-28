@@ -60,6 +60,7 @@ ALIASES = {
     "persia":                           "iran",
     "burma":                            "myanmar",
     "dprk":                             "north korea",
+    "prc":                              "china"
 
 }
 
@@ -164,6 +165,60 @@ def parse_top_countries(wikitext: str, top_n: int = TOP_N) -> list[str]:
 
     return countries
 
+
+def parse_top_populations(wikitext: str, top_n: int = TOP_N) -> list[str]:
+    """
+    Parses the wikitext to extract the population figure for each of the
+    top N countries, in the same rank order as parse_top_countries().
+
+    The population figures are stored in the wikitext inside templates like:
+        {{n+p|341784857|{{worldpop}}|sigfig=2|disp=table}}
+    We extract the first argument (the raw number) from each such template.
+
+    Returns a list of population strings in rank order, e.g.:
+        ["1,419,321,278", "1,407,563,842", ...]
+    The figures are formatted with commas for readability.
+    """
+
+    # This pattern matches the n+p template and captures the raw number.
+    # \{\{n\+p\|  → matches the literal opening "{{n+p|"
+    # (\d+)       → CAPTURE GROUP: the population number (digits only)
+    # \|          → matches the "|" that follows the number
+    population_pattern = re.compile(r"\{\{n\+p\|(\d+)\|")
+
+    # Reuse the same row-splitting and flagicon-detection logic as
+    # parse_top_countries() so we're iterating over exactly the same rows
+    # in the same order, guaranteeing the two lists stay in sync.
+    flagicon_pattern = re.compile(r"\{\{flagicon\|", re.IGNORECASE)
+
+    rows = wikitext.split("|-")
+    populations = []
+
+    for row in rows:
+        if len(populations) >= top_n:
+            break
+
+        if not flagicon_pattern.search(row):
+            continue
+
+        pop_match = population_pattern.search(row)
+        if not pop_match:
+            continue
+
+        # Format the raw number string with commas for readability
+        # e.g. "341784857" → "341,784,857"
+        raw_number = int(pop_match.group(1))
+        formatted  = f"{raw_number:,}"
+        populations.append(formatted)
+
+    if len(populations) < top_n:
+        print(
+            f"WARNING: Only found {len(populations)} population figures "
+            f"instead of {top_n}. Check the wikitext structure."
+        )
+
+    return populations
+
 # ---------------------------------------------------------------------------
 # Step 3: Normalise a user's guess for comparison
 # ---------------------------------------------------------------------------
@@ -246,3 +301,9 @@ if __name__ == "__main__":
         result = check_guess(g, top_countries)
         status = f"CORRECT (rank #{result['rank']})" if result["correct"] else "WRONG"
         print(f"  '{g}' → normalised to '{result['normalised']}' → {status}")
+
+    #human written test:
+    print("\nTesting Population:\n")
+    pop = parse_top_populations(wikitext)
+    for x in pop:
+        print(f"{x}\n")

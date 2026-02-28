@@ -25,7 +25,7 @@ from flask_cors import CORS
 
 # Import our parsing and checking functions from the parser module we built.
 # This assumes app.py and wiki_parser.py are in the same directory.
-from wiki_parser import fetch_wikitext, parse_top_countries, check_guess
+from wiki_parser import fetch_wikitext, parse_top_countries, check_guess, parse_top_populations
 
 
 # ---------------------------------------------------------------------------
@@ -61,6 +61,7 @@ print("Fetching and parsing Wikipedia data on startup...")
 try:
     _wikitext = fetch_wikitext()
     top_countries = parse_top_countries(_wikitext)
+    top_populations = parse_top_populations(_wikitext)
     print(f"Ready. Cached {len(top_countries)} countries.")
 except Exception as e:
     # If this fails the server will still start, but the endpoints will return
@@ -138,6 +139,10 @@ def check():
 
     # jsonify() converts the result dictionary to a JSON response with
     # HTTP status 200 (OK) by default
+
+    #add populatiion for correct guesses:
+    if result["correct"]:
+        result["population"] = top_populations[result["rank"] - 1]
     return jsonify(result)
 
 
