@@ -98,6 +98,7 @@ def get_countries():
 
     return jsonify({
         "countries": top_countries,
+        "populations": top_populations,
         "count": len(top_countries)
     })
 

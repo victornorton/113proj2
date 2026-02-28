@@ -280,6 +280,13 @@
       text-transform: capitalize;
     }
 
+    .bar-population {
+      font-size: 13px;
+      color: var(--text-muted);
+      margin-left: auto;
+      padding-right: 10px;
+    }
+
     .bar-tag {
       font-size: 11px;
       text-transform: uppercase;
@@ -509,7 +516,7 @@
       correctCount++;
       guessedCorrect[normalised] = result.rank;
       updateScoreboard();
-      addBar(normalised, "correct", result.rank, `#${result.rank}`);
+      addBar(normalised, "correct", result.rank, `#${result.rank}`, result.population);
       sortBars();
 
       if (correctCount === TOTAL_CORRECT) {
@@ -531,7 +538,7 @@
   // -------------------------------------------------------------------------
   // Add a bar to the results list
   // -------------------------------------------------------------------------
-  function addBar(name, type, rank, tagText) {
+  function addBar(name, type, rank, tagText, population = null) {
     const bar = document.createElement("div");
     bar.className = `bar ${type}`;
     // Store rank as a data attribute so we can sort by it
@@ -540,6 +547,7 @@
     bar.innerHTML = `
       <span class="bar-rank">${rank && rank < 900 ? rank : ""}</span>
       <span class="bar-name">${escapeHtml(name)}</span>
+      ${population ? `<span class="bar-population">population: ${escapeHtml(population)}</span>` : ""}
       <span class="bar-tag">${escapeHtml(tagText)}</span>
     `;
 
@@ -607,11 +615,17 @@
     try {
       const response = await fetch(`${BACKEND_URL}/countries`);
       const data     = await response.json();
-      countries      = data.countries; // array of normalised names in rank order
+      countries      = data.countries;
+      populations = data.populations; // array of normalised names in rank order
     } catch (err) {
       revealBtn.textContent = "Could not reach server";
       return;
     }
+
+
+    
+
+
 
     // countries is ordered by rank (index 0 = rank 1)
     countries.forEach((name, index) => {
@@ -619,8 +633,10 @@
       // Skip countries the player already guessed correctly
       if (name in guessedCorrect) return;
 
-      addBar(name, "revealed", rank, "—");
+      addBar(name, "revealed", rank, "—", populations[index]);
     });
+
+
 
     sortBars();
     revealBtn.style.display = "none";

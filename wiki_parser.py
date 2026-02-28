@@ -154,6 +154,7 @@ def parse_top_countries(wikitext: str, top_n: int = TOP_N) -> list[str]:
             continue
 
         country_name = matches[0].strip().lower()
+        country_name = normalise_guess(country_name) #had to add this after wikipedia changed drc!
         countries.append(country_name)
         print(f"  #{len(countries):>2}: {country_name}")
 
@@ -283,7 +284,10 @@ def check_guess(guess: str, top_countries: list[str]) -> dict:
 if __name__ == "__main__":
     # Fetch and parse the list
     wikitext = fetch_wikitext()
-    
+    # Temporary diagnostic — remove once regex is fixed
+    with open("wikitext_sample2.txt", "w", encoding="utf-8") as f:
+        f.write(wikitext)
+    print("Wikitext saved to wikitext_sample2.txt")
 
 
     print("\nParsing top 20 countries...\n")

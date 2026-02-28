@@ -1,0 +1,1067 @@
+{{Short description|none}}<!-- See this article's self-explanatory title and [[WP:SDNONE]] -->
+{{About|a list of countries and dependencies by population based on figures from official sources or, if not available, estimates and projections from the United Nations|a list based purely on figures from the United Nations|List of countries and dependencies by population (United Nations)}}
+{{hatnote|This article reflects continually changing information from hundreds of sources. You can help by updating items to more recent figures from [[List of countries and dependencies by population#Method|official sources]].}}
+{{Pp-semi-indef|small=yes}}
+{{Use dmy dates|date=March 2022}}
+{{Use British English |date=August 2022}}
+[[File:Global population cartogram.png|thumb|upright=2|[[Cartogram]] of the world's population in 2018; each square represents 500,000 people.]]
+{{Pie chart
+| caption = Population distribution by country in June-July 2025
+| label1 = [[Demographics of India|India]]
+| value1 = 17.3
+| color1 = #ff9933
+| label2 = [[Demographics of China|China]]
+| value2 = 17.2
+| color2 = #de2910
+| label3 = [[Demographics of United States|United States]]
+| value3 = 4.2
+| color3 = #003366
+| label4 = [[Demographics of Indonesia|Indonesia]]
+| value4 = 3.5
+| color4 = #cd1c3c
+| label5 = [[Demographics of Pakistan|Pakistan]]
+| value5 = 2.9
+| color5 = #006634
+| label6 = [[Demographics of Nigeria|Nigeria]]
+| value6 = 2.7
+| color6 = #008751
+| label7 = [[Demographics of Brazil|Brazil]]
+| value7 = 2.6
+| color7 = #fedd00
+| label8 = [[Demographics of Bangladesh|Bangladesh]]
+| value8 = 2.1
+| color8 = #001e00
+| label9 = [[Demographics of Russia|Russia]]
+| value9 = 1.8
+| color9 = #ffffff
+| label10 = Others
+| value10 = 45.7
+| color10 = #cccccc
+}}
+
+This is a '''list of countries and dependencies by population'''. It includes [[sovereign state]]s, inhabited [[dependent territory|dependent territories]] and, in some cases, constituent countries of sovereign states, with inclusion within the list being primarily based on the [[International Organization for Standardization|ISO]] standard [[ISO 3166-1]]. For instance, the [[United Kingdom]] is considered a single entity, while the constituent countries of the [[Kingdom of the Netherlands]] are considered separately. In addition, this list includes certain [[list of states with limited recognition|states with limited recognition]] not found in ISO 3166-1. Also given in a percentage is each country's population compared with the [[world population]], which the [[United Nations]] estimated at 8.232 billion as of 2025.<ref name="UNFPA">{{cite web |url=https://www.unfpa.org/data/world-population-dashboard |title=World Population Dashboard |year=2024 |work=United Nations Population Fund |publisher=UNFPA |access-date=29 September 2024}}</ref>
+
+== Method ==
+{{See also|List of countries and dependencies by population density|List of regional organizations by population}}
+Figures used in this chart are based on the most up-to-date estimates or [[population projection|projections]] by the national [[census]] authority, where available, and are usually rounded off.
+
+Where updated national data are not available, figures are based on the estimates or projections for 2024 by the Population Division of the [[United Nations Department of Economic and Social Affairs]].
+
+Because the compiled figures are not collected at the same time in every country, or at the same level of accuracy, the resulting numerical comparisons may create misleading conclusions. Furthermore, the addition of figures from all countries may not equal the world total.
+
+Areas that form integral parts of [[sovereign state]]s, such as the [[countries of the United Kingdom]], are counted as part of the sovereign states concerned. Not included are other entities that are not sovereign states, such as the [[European Union]],{{efn|The European Union is a ''[[sui generis]]'' [[supranational union]] whose sovereign members delegate to it by treaty certain powers that are often exercised by sovereign states. Its combined population has been estimated at 447,319,916 on 1 January 2020, and it would be ranked 3rd if it were included in the list. It has {{#expr: 447319916 / {{worldpop}} * 100 round 2}}% of the world's population — see {{cite web |url=https://ec.europa.eu/eurostat/databrowser/view/tps00001/default/table?lang=en |title=Eurostat-Tables, Graphs and Maps Interface（TGM）table|publisher=[[European Commission]]}}}} and independent territories that do not have permanent populations, such as the [[Chagos Archipelago]] and [[territorial claims in Antarctica|various countries' claims]] to [[Antarctica]].<ref>{{cite web |title=World Population Prospects – Population Division – United Nations |url=https://population.un.org/wpp/ |access-date=4 September 2022 |publisher=population.un.org |archive-date=5 February 2019 |archive-url=https://web.archive.org/web/20190205234912/https://population.un.org/wpp/ |url-status=live }}</ref>
+
+== Sovereign states and dependencies by population ==
+Note: A numbered rank is assigned to the 193 [[member states of the United Nations]], plus the two [[United Nations General Assembly observers#Current non-member observers|observer states to the United Nations General Assembly]]. Dependent territories and constituent countries that are parts of sovereign states are not assigned a numbered rank. In addition, [[list of states with limited recognition|sovereign states with limited recognition]] are also included, but not assigned a numbered rank.
+
+{{mw-datatable}}{{sort under}}{{static row numbers}}{{sticky header}}{{table alignment}}
+{| class="wikitable sortable mw-datatable sort-under static-row-numbers sticky-header col1left col5left" {{right}}
+|+ List of countries and territories by total population
+
+! Location
+! Population
+! style=width:2em | % of{{br}}world
+! Date
+! {{nowrap|Source (official or from}}{{br}}the [[United Nations]])
+! class="unsortable"|Notes
+|- class=static-row-numbers-norank
+| '''{{noflag|World}}'''
+| 8,232,000,000 || {{center|100%}} || {{dts|13 June 2025|abbr=on}}
+| UN projection<ref name="UNFPA"/><ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=24 March 2025 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref>||
+|-
+| {{flagicon|India}} [[Demographics of India|India]]
+| {{n+p|1417492000|{{worldpop}}|sigfig=3|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official projection<ref>{{cite web |title=Projected Total Population by Sex as on 1st July 2011-2036: India, States and Union Territories (pg.83) |url=https://main.mohfw.gov.in/sites/default/files/Population%20Projection%20Report%202011-2036%20-%20upload_compressed_0.pdf |publisher=[[Ministry of Health and Family Welfare]] |website=www.main.mohfw.gov.in |date=9 July 2020 |access-date=14 July 2025 |archive-date=4 June 2023 |archive-url=https://web.archive.org/web/20230604151511/https://main.mohfw.gov.in/sites/default/files/Population%20Projection%20Report%202011-2036%20-%20upload_compressed_0.pdf |url-status=dead }}</ref> || {{efn|Includes the population of the [[Kashmir conflict|India-administered]] [[union territory|union territories]] of [[Jammu and Kashmir (union territory)|Jammu and Kashmir]], and [[Ladakh]].}}
+|-
+| {{flagicon|China}} [[Demographics of China|China]]
+| {{n+p|1404890000|{{worldpop}}|sigfig=3|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Official estimate<ref>{{cite web |title=National Economy – 10. Total Population went down and Urbanization rate continued to grow (31 December 2025) |url=https://www.stats.gov.cn/english/PressRelease/202601/t20260119_1962328.html |publisher=[[National Bureau of Statistics of China]] (NBSC) |website=www.stats.gov.cn |date=19 January 2026 |access-date=19 January 2026}}</ref> || {{efn|Referring to [[Mainland China]]; excluding China's [[special administrative regions of China|special administrative regions]] of [[Hong Kong]] and [[Macau]], which returned to Chinese sovereignty in 1997 and 1999, respectively.}}
+|-
+| {{flagicon|United States}} [[Demographics of United States|United States]]
+| {{n+p|341784857|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.census.gov/data/tables/time-series/demo/popest/2020s-national-total.html | title=National Population Totals and Components of Change: April 1, 2020 to July 1, 2025 |publisher=[[United States Census Bureau]] (USCB) |website=www.census.gov |access-date=27 January 2026}}</ref>|| {{efn|Includes the [[list of states and territories of the United States|50 states]] and the [[Washington, D.C.|District of Columbia]], but excludes the [[territories of the United States]].}}
+|-
+| {{flagicon|Indonesia}} [[Demographics of Indonesia|Indonesia]]
+| {{n+p|284438782|{{worldpop}}|sigfig=2|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| National annual projection<ref>{{citation|url=https://www.bps.go.id/en/statistics-table/2/MTk3NSMy/mid-year-population--thousand-people-.html|title=Mid Year Population (Thousand People), 2025|website=BPS-Statistics Indonesia|language=id|access-date=14 July 2025}}</ref>||
+|-
+| {{flagicon|Pakistan}} [[Demographics of Pakistan|Pakistan]]
+| {{n+p|241499431|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 March 2023|abbr=on}}
+| 2023 census result<ref>{{cite web |url=https://www.pbs.gov.pk/sites/default/files/population/2023/Pakistan.pdf |title=Announcement of Results of 7th Population and Housing Census-2023 'The Digital Census' |date=5 August 2023 |website=Pakistan Bureau of Statistics (www.pbs.gov.pk) |access-date=14 August 2023 |archive-date=14 August 2023 |archive-url=https://web.archive.org/web/20230814181311/https://www.pbs.gov.pk/sites/default/files/population/2023/Pakistan.pdf |url-status=live }}</ref> || {{efn|Excludes the population of [[Kashmir conflict|Pakistan-administered]] regions of the [[Kashmir]]; [[Azad Kashmir]] and [[Gilgit-Baltistan]], which, according to 2017 Pakistani census, had a population of 4,045,367 and 1,492,924 respectively.}}
+|-
+| {{flagicon|Nigeria}} [[Demographics of Nigeria|Nigeria]]
+| {{n+p|223800000|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 July 2023|abbr=on}}
+| Official projection<ref>{{cite web |url=https://cdn.sanity.io/files/5otlgtiz/production/d7fb94a5c16220cd7559ac066f95f9d53a433ac8.pdf |title=The annual population lecture series – APLS (pg.1 and pg.159) |publisher=National Population Commission – NPC Nigeria |website=www.nationalpopulation.gov.ng |date=22 November 2023 |access-date=11 March 2024}}</ref> ||
+|-
+| {{flagicon|Brazil}} [[Demographics of Brazil|Brazil]]
+| {{n+p|213421037|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official estimate<ref>{{Cite web |title=Estimativas da população residente para os municípios e para as unidades da federação {{!}} IBGE |url=https://www.ibge.gov.br/estatisticas/sociais/populacao/9103-estimativas-de-populacao.html |access-date=2025-09-05 |website=www.ibge.gov.br}}</ref>||
+|-
+| {{flagicon|Bangladesh}} [[Demographics of Bangladesh|Bangladesh]]
+| {{n+p|169828911|{{worldpop}}|sigfig=2|disp=table}} || {{dts|14 June 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |title=Population & Housing Census 2022 – Post Enumeration Check (PEC) Adjusted Population |url=https://bbs.portal.gov.bd/sites/default/files/files/bbs.portal.gov.bd/page/b343a8b4_956b_45ca_872f_4cf9b2f1a6e0/2023-04-18-08-42-4f13d316f798b9e5fd3a4c61eae4bfef.pdf |website=Bangladesh Bureau of Statistics (www.bbs.gov.bd) |date=18 April 2023 |access-date=24 August 2023 |language=en |archive-date=24 August 2023 |archive-url=https://web.archive.org/web/20230824082228/https://bbs.portal.gov.bd/sites/default/files/files/bbs.portal.gov.bd/page/b343a8b4_956b_45ca_872f_4cf9b2f1a6e0/2023-04-18-08-42-4f13d316f798b9e5fd3a4c61eae4bfef.pdf |url-status=live }}</ref> || {{efn| The [[Bangladesh Bureau of Statistics]] has a projection of 181 million for 2025, but this method derives from a base year of 2011. This same projection overcounted the population for 2022 by about 4.4 million.<ref>{{cite web |url = https://bbs.gov.bd/site/page/29855dc1-f2b4-4dc0-9073-f692361112da/- |title = Statistical Yearbook |website = bbs.gov.bd |access-date = 1 Jan 2025}}</ref>}}
+|-
+| {{flagicon|Russia}} [[Demographics of Russia|Russia]]
+| {{n+p|146028325|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |title= Оценка численности постоянного населения на 1 января 2025 г. [Estimated permanent population on 1 January 2025] |url= https://rosstat.gov.ru/storage/mediabank/PrPopul2025_Site.xlsx |publisher=[[Federal State Statistics Service (Russia)|Russian Federal State Statistics Service (Росстат)]] |website= www.rosstat.gov.ru |access-date=11 February 2025 |language=ru}}</ref> || {{efn|Includes the [[Republic of Crimea (Russia)|Republic of Crimea]] and [[Sevastopol]], administrative areas on the [[Crimea|Crimean Peninsula]] occupied by Russia. The population does not include the [[Russian annexation of Donetsk, Kherson, Luhansk and Zaporizhzhia oblasts|four annexed Ukrainian oblasts]]. The Ukrainian government and [[Political status of Crimea|most of the world's other states]] consider the Crimean Peninsula, [[Donetsk Oblast|Donetsk]], [[Kherson Oblast|Kherson]], [[Luhansk Oblast|Luhansk]], and [[Zaporizhzhia Oblast|Zaporizhzhia]] parts of [[administrative divisions of Ukraine|Ukraine's territory]].}}
+|-
+| {{flagicon|Mexico}} [[Demographics of Mexico|Mexico]]
+| {{n+p|131001723|{{worldpop}}|sigfig=2|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| National quarterly estimate<ref>*data provided by [https://www.inegi.org.mx/programas/enoe/15ymas/#tabulados INEGI → ENOE]* {{cite web |title=Mexico Population |url=https://www.economy.com/mexico/population/not-seasonally-adjusted |publisher=Moody's Analytics |website=www.economy.com |access-date=28 February 2026}}</ref> ||
+|-
+| {{flagicon|Japan}} [[Demographics of Japan|Japan]]
+| {{n+p|122950000|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Monthly national estimate<ref>{{Cite news |title=Preliminary counts of population of Japan |work=[[Statistics Bureau (Japan)|Statistics Bureau of Japan]] |url=https://www.stat.go.jp/english/index.html |access-date=20 January 2026 }}</ref>||
+|-
+| {{flagicon|Philippines}} [[Demographics of the Philippines|Philippines]]
+| {{n+p|114123600|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official projection<ref>{{cite web |url=https://psa.gov.ph/sites/default/files/dhsd/Statistical%20Tables%20CBPP_0.pdf |title=Table 10. Projected Population, by Age group, Sex, and single-Year interval, Philippines: 2020 - 2030 [Scenario 2 - pg.18] |publisher=[[Philippine Statistics Authority]] (PSA) |website=www.psa.gov.ph |date=31 January 2024 |access-date=21 January 2025}}</ref> ||
+|-
+| {{flagicon|DR Congo}} [[Demographics of the Democratic Republic of the Congo|DR Congo]]
+| {{n+p|112832000|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| UN projection<ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=25 December 2024 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref> ||
+|-
+| {{flagicon|Ethiopia}} [[Demographics of Ethiopia|Ethiopia]]
+| {{n+p|111652998|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://ess.gov.et/ |title=Population |publisher=[[Central Statistical Agency|Ethiopian Statistical Service]] (ESS) |website=www.ess.gov.et |access-date=1 July 2025|archive-url=https://web.archive.org/web/20241211193219/https://ess.gov.et/|archive-date=2024-12-11}}</ref>||
+|-
+| {{flagicon|Egypt}} [[Demographics of Egypt|Egypt]]
+| {{n+p|107868296|{{worldpop}}|sigfig=2|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.capmas.gov.eg/publications/150 |title=Population estimates by Sex & Governorate |publisher=[[Central Agency for Public Mobilization and Statistics (Egypt)|CAPMAS]] |website=www.capmas.gov.eg |access-date=27 January 2026}}</ref> ||
+|-
+| {{flagicon|Vietnam}} [[Demographics of Vietnam|Vietnam]]
+| {{n+p|102300000|{{worldpop}}|sigfig=2|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Official estimate<ref>{{cite report |date=January 2026 |title=Infographic social-economic situation in the 4th quarter and 2025 |url=https://www.nso.gov.vn/en/data-and-statistics/2026/01/infographic-social-economic-situation-in-the-4th-quarter-and-2025/ |publisher=[[National Statistics Office of Vietnam]] |access-date= }}</ref> ||
+|-
+| {{flagicon|Iran}} [[Demographics of Iran|Iran]]
+| {{n+p|86563000|{{worldpop}}|sigfig=2|disp=table}} || {{dts|20 March 2025|abbr=on}}
+| Official projection<ref>{{cite web |url=https://iranopendata.org/en/map/ |title=Estimated population in Iran by province |publisher= Iran Open Data (IOD) |website=www.iranopendata.org/fa/ |last=data processed from www.amar.org.ir |date=June 2025 |access-date=13 January 2025}}</ref> ||
+|-
+| {{flagicon|Turkey}} [[Demographics of Turkey|Turkey]]
+| {{n+p|86092168|{{worldpop}}|sigfig=2|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://data.tuik.gov.tr/Bulten/Index?p=The-Results-of-Address-Based-Population-Registration-System-2025-53899&dil=2 |title=The Results of Address Based Population Registration System, 2025 |publisher=[[Turkish Statistical Institute]] |website=www.tuik.gov.tr |date=9 February 2026 |access-date=9 February 2026}}</ref> ||
+|-
+| {{flagicon|Germany}} [[Demographics of Germany|Germany]]
+| {{n+p|83497147|{{worldpop}}|sigfig=2|disp=table}} || {{dts|30 September 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url=https://www.destatis.de/EN/Themes/Society-Environment/Population/Current-Population/Tables/liste-current-population-basis-2022.html |title=Population by nationality and sex (quarterly figures) |publisher=[[Federal Statistical Office of Germany|DESTATIS]] |website=www.destatis.de |date=25 September 2025 |access-date=30 September 2025}}</ref> ||
+|-
+| {{flagicon|United Kingdom}} [[Demographics of the United Kingdom|United Kingdom]]
+| {{n+p|69487000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| Official estimate<ref>{{Cite web |title=United Kingdom population mid-year estimate - Office for National Statistics |url=https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/timeseries/ukpop/pop |access-date=2026-01-22 |website=www.ons.gov.uk}}</ref> || {{efn|Excluding the three [[Crown Dependencies|British Crown Dependencies]] and the 14 [[British Overseas Territories]], listed separately. Four British Overseas Territories are not listed due to a lack of permanent population. The four territories not listed are the ''[[British Antarctic Territory]]'' (an Antarctic territorial claim hosting only government officials and research station staff), the [[British Indian Ocean Territory]] (a military base), [[South Georgia and the South Sandwich Islands]] (hosting only government officials and research station staff), and the [[Akrotiri and Dhekelia|Sovereign Base Areas of Akrotiri and Dhekelia]] (a military base where permanent residency is limited to citizens of the [[Cyprus|Republic of Cyprus]]).}}
+|-
+| {{flagicon|France}} [[Demographics of France|France]]
+| {{n+p|69081996|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Yearly national estimate<ref>{{cite web |title=Estimation de la population au 1ᵉʳ janvier 2026  |url=https://www.insee.fr/fr/statistiques/8721456 |publisher=INSEE |website=www.insee.fr |access-date=2026-02-02}}</ref> || {{efn|Including the integral 18 [[regions of France]] (including five [[overseas departments and regions of France|overseas regions]]). Excluding France's five [[overseas collectivity|overseas collectivities]]: [[French Polynesia]], [[Saint Barthélemy]], [[Collectivity of Saint Martin|Saint Martin]], [[Saint Pierre and Miquelon]], and [[Wallis and Futuna]], and the [[Overseas France#Sui generis collectivity|sui generis collectivity]] of [[New Caledonia]], which are shown separately. [[Clipperton Island]] (an uninhabited [[Overseas France#Special status|state private property]] of France) and the ''[[French Southern and Antarctic Lands]]'' (including several [[uninhabited island]]s and an [[Adélie Land|Antarctic territorial claim]] hosting only government officials and research station staff) are not listed at all due to a lack of permanent population.}}
+|-
+| {{flagicon|Tanzania}} [[Demographics of Tanzania|Tanzania]]
+| {{n+p|68153004|{{worldpop}} |sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official projection<ref>{{cite web |url=https://www.nbs.go.tz/uploads/statistics/documents/en-1743764574-National%20Population%20Projections%20Report%202023%20-%202050.pdf |title=National Population Projections 2023 - 2050 (pg.118) |publisher=[[National Bureau of Statistics (Tanzania)]] |website=www.nbs.go.tz |date=September 2024 |access-date=1 July 2025|archive-url=https://web.archive.org/web/20250607001534/https://www.nbs.go.tz/uploads/statistics/documents/en-1743764574-National%20Population%20Projections%20Report%202023%20-%202050.pdf|archive-date=2025-06-07}}</ref>|| {{efn|Including [[Zanzibar]].}}
+|-
+| {{flagicon|Thailand}} [[Demographics of Thailand|Thailand]]
+| {{n+p|65826149|{{worldpop}} |sigfig=1|disp=table}} || {{dts|30 November 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://stat.bora.dopa.go.th/stat/statnew/statMONTH/statmonth/#/mainpage |title=สถิติประชากรทางการทะเบียนราษฎร(รายเดือน) – Official population statistics from the civil registration (monthly) |last=จำนวนประชากร (population) → ตรวจสอบข้อมูลแยกรายเดือน (check monthly data separately) → ขอบเขตข้อมูล (data scope - monthly) → ยอดรวมข้อมูล (total data - whole country) |publisher=The Bureau of Registration Administration (BORA) |website=www.bora.dopa.go.th |access-date=1 December 2025 |language=thai}}</ref> ||
+|-
+| {{flagicon|South Africa}} [[Demographics of South Africa|South Africa]]
+| {{n+p|63100945|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.statssa.gov.za/publications/P0302/P03022025.pdf |title=Mid-year population estimates 2025 |publisher=Government of South Africa |website=www.gov.za |date=28 July 2025 |access-date=1 August 2025}}</ref> ||
+|-
+| {{flagicon|Italy}} [[Demographics of Italy|Italy]]
+| {{n+p|58956824|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 October 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://demo.istat.it/app/?i=D7B |title=ISTAT – Bilancio Demografico Mensile / Monthly Demographic Balance |publisher=Istituto Nazionale di Statistica (Istat) |website=demo.istat.it |language=it |access-date=27 January 2026}}</ref> ||
+|-
+| {{flagicon|Kenya}} [[Demographics of Kenya|Kenya]]
+| {{n+p|53330978|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official projection<ref>{{cite web |url=https://www.knbs.or.ke/wp-content/uploads/2023/09/2019-Kenya-population-and-Housing-Census-Analytical-Report-on-Population-Projections.pdf |title=2019 Kenya Census: Analytical report on Population Projections (pg.55) |publisher=[[Kenya National Bureau of Statistics]] (KNBS) |website=www.knbs.or.ke |date=September 2022 |access-date=1 July 2025}}</ref>||
+|-
+| {{flagicon|Colombia}} [[Demographics of Colombia|Colombia]]
+| {{n+p|53057212|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official projection<ref>{{cite web |url=https://www.dane.gov.co/index.php/estadisticas-por-tema/demografia-y-poblacion/proyecciones-de-poblacion |title=Proyecciones de Población DANE |access-date=5 September 2025}}</ref> ||
+|-
+| {{flagicon|Sudan}} [[Demographics of Sudan|Sudan]]
+| {{n+p|51662000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| UN projection<ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=3 August 2024 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref> ||
+|-
+| {{flagicon|Myanmar}} [[Demographics of Myanmar|Myanmar]]
+| {{n+p|51375327|{{worldpop}}|sigfig=1|disp=table}} || {{dts|15 October 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |url = https://dop.gov.mm/sites/dop.gov.mm/files/publication_docs/2024mphc_unionreport_en_26nov.pdf |title = The 2024 Myanmar Population and Housing Census The Union Report |date = October 2025 |website = Myanmar Ministry of Information |access-date = 6 January 2026}}</ref> || {{efn| Does not include the [[Rohingya people]]. Some regions were estimated by satellite.<ref>{{cite web |url = https://www.reuters.com/world/asia-pacific/myanmar-says-2024-census-shows-population-513-mln-2025-01-01/ |title = Myanmar says 2024 census shows population of 51.3 million |website = reuters.com |access-date = 31 Dec 2024}}</ref>}}
+|-
+| {{flagicon|South Korea}} [[Demographics of South Korea|South Korea]]
+| {{n+p|51111158|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 January 2026|abbr=on}}
+| Monthly national estimate<ref>{{cite web |title=Resident population by City, County, and District |url=https://kosis.kr/statHtml/statHtml.do?orgId=101&tblId=DT_1B040A3&conn_path=I2&language=en |publisher=[[Statistics Korea|Statistics Korea (KOSTAT)]] → Korean Statistical Information Service (KOSIS) |website=www.kostat.go.kr |access-date=28 February 2026}}</ref>||
+|-
+| {{flagicon|Spain}} [[Demographics of Spain|Spain]]
+| {{n+p|49570725|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| National quarterly estimate<ref>{{Cite web|url=https://www.ine.es/dyngs/INEbase/en/operacion.htm?c=Estadistica_C&cid=1254736177095&menu=ultiDatos&idp=1254735572981|title=INEbase / Continuous Population Statistics (CPS). 1st October 2025. Provisional data|website=ine.es|access-date=11 November 2025}}</ref> ||
+|-
+| {{flagicon|Algeria}} [[Demographics of Algeria|Algeria]]
+| {{n+p|47400000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.ons.dz/IMG/pdf/Demographie_Algerienne2020_2023.pdf |title=DEMOGRAPHIE ALGERIENNE 2020 à 2025 |publisher=[[National Office of Statistics]] (NOS) |website=www.ons.dz |date=July 2024 |access-date=17 January 2025 |language=French}}</ref> ||
+|-
+| {{flagicon|Argentina}} [[Demographics of Argentina|Argentina]]
+| {{n+p|46387098|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref name=renaper1>{{cite news|url=https://www.indec.gob.ar/indec/web/Nivel4-Tema-2-24-84|title=Proyecciones nacionales|publisher=Instituto Nacional de Estadística y Censos (INDEC)|access-date=30 October 2025}}</ref> ||
+|-
+| {{flagicon|Iraq}} [[Demographics of Iraq|Iraq]]
+| {{n+p|46118793|{{worldpop}}|sigfig=1|disp=table}} || {{dts|24 February 2025|abbr=on}}
+| 2024 census result<ref>{{cite web|url=https://www.youtube.com/watch?v=jZGZ_gLSnRQ&ab_channel=%D9%87%D9%8A%D8%A3%D8%A9%D8%A7%D9%84%D8%A5%D8%AD%D8%B5%D8%A7%D8%A1%D9%88%D9%86%D8%B8%D9%85%D8%A7%D9%84%D9%85%D8%B9%D9%84%D9%88%D9%85%D8%A7%D8%AA%D8%A7%D9%84%D8%AC%D8%BA%D8%B1%D8%A7%D9%81%D9%8A%D8%A9|title=نتائج تعداد 2024 Census results|date=23 March 2025 |publisher=Commission of Statistics and GIS, Ministry of Planning}}</ref> ||
+|-
+| {{flagicon|Uganda}} [[Demographics of Uganda|Uganda]]
+| {{n+p|45905417|{{worldpop}}|sigfig=1|disp=table}} || {{dts|10 May 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |url=https://www.ubos.org/wp-content/uploads/2024/12/National-Population-and-Housing-Census-2024-Final-Report-Volume-1-Main.pdf |title=National Population and Housing Census 2024 – Final Report – Volume I (Main) |access-date=6 February 2025 |archive-url=https://web.archive.org/web/20250126111611/https://www.ubos.org/wp-content/uploads/2024/12/National-Population-and-Housing-Census-2024-Final-Report-Volume-1-Main.pdf |archive-date=26 January 2025 |url-status=live}}</ref> ||
+|-
+| {{flagicon|Afghanistan}} [[Demographics of Afghanistan|Afghanistan]]
+| {{n+p|43844000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| UN projection<ref>{{cite web |url = https://population.un.org/wpp/assets/Files/WPP2024_Summary-of-Results.pdf |title = World Population Prospects 2024 Summary of Results |at = p61 |website = un.org |access-date = 6 Jan 2025}}</ref><ref>{{cite web |url = https://population.un.org/wpp/assets/Files/WPP2024_Data_Sources.pdf |title = World Population Prospects 2024 Data Sources |at = p11 |website = un.org |access-date = 6 Jan 2025}}</ref> (see note)
+| {{efn| The last census was conducted in 1979. Sources disagree about the current population:
+* The Afghani [[National Statistics and Information Authority]] gives an estimate of 35,695,527 for 2024.<ref>{{cite web |url = https://nsia.gov.af/library |title = Library |website = nsia.gov.af |access-date = 23 Jan 2025 |archive-date = 23 March 2022 |archive-url = https://web.archive.org/web/20220323031521/https://nsia.gov.af/library |url-status = dead }}</ref><ref>{{cite web |url = https://drive.google.com/file/d/1PWzeE5zCoqwHfht-16xVkHejlgW9Wbeb/view |title = Estimated Population of Afghanistan 2024-25 |website = [[National Statistics and Information Authority]] |access-date = 23 Jan 2025}}</ref>
+* The [[Encyclopædia Britannica]] gives an estimate of 36,432,000 for 2025.<ref>{{cite web |url = https://www.britannica.com/place/Afghanistan |title = Afghanistan |website = www.britannica.com |access-date = 25 Jan 2025}}</ref>
+* The BBC gives a figure of 38.3 million for 2023.<ref>{{cite web |url = https://www.bbc.com/news/world-south-asia-12011352 |title = Afghanistan country profile |date = 15 Aug 2023 |website = bbc.com |access-date = 23 Jan 2025}}</ref>
+* The CIA gives an estimate of 40,121,552 for 2024.<ref>{{cite web |url = https://www.cia.gov/the-world-factbook/countries/afghanistan/ |archive-url = https://web.archive.org/web/20210104184342/https://www.cia.gov/the-world-factbook/countries/afghanistan/ |url-status = dead |archive-date = 4 January 2021 |title = Afghanistan |website = cia.gov |access-date = 6 Jan 2025}}</ref>
+* The US Census Bureau provides an estimate of 49,552,566 for 2025.<ref>{{cite web |url = https://www.census.gov/popclock/world/af |title = Afghanistan |website = nsia.gov.af |access-date = 23 Jan 2025}}</ref>
+All figures are mid-year.}}
+|-
+| {{flagicon|Canada}} [[Demographics of Canada|Canada]]
+| {{n+p|41575585|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 October 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url = https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=1710000901 |title = Population estimates, quarterly |date = 18 June 2025|website = statcan.gc.ca |access-date = 18 June 2025}}</ref> ||
+|-
+| {{flagicon|Uzbekistan}} [[Demographics of Uzbekistan|Uzbekistan]]
+| {{n+p|38236704|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://stat.uz/en/ |title=Permanent Population |publisher=National Statistics Committee of the Republic of Uzbekistan |website=www.stat.uz |access-date=20 January 2026}}</ref> ||
+|-
+| {{flagicon|Poland}} [[Demographics of Poland|Poland]]
+| {{n+p|37332000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://stat.gov.pl/en/topics/other-studies/informations-on-socio-economic-situation/statistical-bulletin-no-12026,4,183.html |title=Statistical Bulletin No 1/2026 → Population |publisher=[[Statistics Poland]] (GUS) |website=www.stat.gov.pl |date=24 February 2026 |access-date=28 February 2026}}</ref> ||
+|-
+| {{flagicon|Morocco}} [[Demographics of Morocco|Morocco]]
+| {{n+p|36828330|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 September 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |url=https://www.hcp.ma/Population-legale-du-Royaume-du-Maroc-repartie-par-regions-provinces-et-prefectures-et-communes-selon-les-resultats-du_a3974.html |title=Recensement général de la population et de l'habitat 2024 |publisher=[[Haut Commissariat au Plan (Morocco)]] (HCP) |website=www.hcp.ma |date=22 November 2024 |access-date=11 December 2024}}</ref> || {{efn|Includes the regions [[Laâyoune-Sakia El Hamra]] and [[Dakhla-Oued Ed-Dahab]], the [[Regions of Morocco|disputed territory]] of [[Western Sahara]] administered by Morocco and excluding [[Sahrawi Arab Democratic Republic]] (see [[Western Sahara conflict]]).}}
+|-
+| {{flagicon|Angola}} [[Demographics of Angola|Angola]]
+| {{n+p|36604681|{{worldpop}}|sigfig=1|disp=table}} || {{dts|19 September 2024|abbr=on}}
+| 2024 census result<ref>{{cite web | title=Resultados Definitivos do Recenseamento Geral da População e Habitação - 2024 | url=https://www.ine.gov.ao/Arquivos/arquivosCarregados//Carregados/Publicacao_638992698392586291.pdf | date=2025-11-20 | language=pt}}</ref> ||
+|-
+| {{flagicon|Saudi Arabia}} [[Demographics of Saudi Arabia|Saudi Arabia]]
+| {{n+p|35300280|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.stats.gov.sa/documents/20117/2435273/Population+Estimates+Statistics+2024+EN.xlsx/6703cee3-3703-18e0-fc1b-956a76d75847?t=1738828776975 |title=Population Estimates Statistics 2024 |publisher=[[General Authority for Statistics (Saudi Arabia)]] - GASTAT |website=www.stats.gov.sa |access-date=24 May 2025}}</ref> ||
+|-
+| {{flagicon|Peru}} [[Demographics of Peru|Peru]]
+| {{n+p|34350244|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.inei.gob.pe/media/MenuRecursivo/publicaciones_digitales/Est/Lib1665/index.html |title=Estimaciones y Proyecciones de la Población Nacional, 1950–2070 (3. Resultados) |publisher=[[Instituto Nacional de Estadística e Informática|INEI – Peru]] |website=www.gob.pe |access-date=1 July 2025}}</ref> ||
+|-
+| {{flagicon|Malaysia}} [[Demographics of Malaysia|Malaysia]]
+| {{n+p|34281100|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 September 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url = https://www.dosm.gov.my/portal-main/release-content/demographic-statistic-malaysia-third-quarter- |title = Demographic Statistics, Third Quarter 2025 |website = dosm.gov.my |date=13 November 2025 |access-date = 15 November 2025 }}</ref> ||
+|-
+| {{flagicon|Mozambique}} [[Demographics of Mozambique|Mozambique]]
+| {{n+p|34090466|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=http://www.ine.gov.mz |title=População 2025 |website=www.ine.gov.mz |access-date=14 July 2025 |archive-url=https://web.archive.org/web/20250319080111/https://www.ine.gov.mz/ |archive-date=19 March 2025 |url-status=live}}</ref> ||
+|-
+| {{flagicon|Ghana}} [[Demographics of Ghana|Ghana]]
+| {{n+p|33742380|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://statsghana.gov.gh/gssmain/fileUpload/pressrelease/Population_projection_280624_final_ffa2[1][2]_with_links[_final_website.pdf |title = Population Projection 2021 – 2050 (pg.43–45) |publisher=[[Ghana Statistical Service]] (GSS) |website=www.statsghana.gov.gh |date=June 2024 |access-date =1 July 2025}}</ref> ||
+|-
+| {{flagicon|Yemen}} [[Demographics of Yemen|Yemen]]
+| {{n+p|32684503|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2023|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://moh.gov.ye/storage/2086/%D8%A7%D9%84%D8%AA%D9%82%D8%B1%D9%8A%D8%B1-%D8%A7%D9%84%D8%A7%D8%AD%D8%B5%D8%A7%D8%A6%D9%8A-%D8%A7%D9%84%D8%B3%D9%86%D9%88%D9%8A-%D8%A7%D9%84%D9%86%D9%87%D8%A7%D8%A6%D9%8A-2023--_%D9%A1%D9%A0%D9%A4%D9%A3%D9%A0%D9%A4.pdf |title=Annual Statistical Health Report 2023 (pg.11) |publisher=[[Ministry of Public Health and Population|Yemen - Ministry Of Health]] |website=www.moh.gov.ye |date=11 March 2025 |access-date=24 May 2025}}</ref> ||
+|-
+| {{flagicon|Madagascar}} [[Demographics of Madagascar|Madagascar]]
+| {{n+p|31727042|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.instat.mg/documents/upload/main/INSTAT-RGPH3_Projectionsdemographiques.pdf |title=Projections démographiques (pg.13) |website=instat.mg |access-date=1 July 2025 |archive-url=https://web.archive.org/web/20240615103016/https://www.instat.mg/documents/upload/main/INSTAT-RGPH3_Projectionsdemographiques.pdf |archive-date=15 June 2024 |url-status=live}}</ref> ||
+|-
+| {{flagicon|Ivory Coast}} [[Demographics of Ivory Coast|Ivory Coast]]
+| {{n+p|31719275|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.anstat.ci/indicateur-details/c27cc25d6bc5b4aefc099a2a23f0feaaf914c947bc39fd6f26211f0b071b3016575869e4dc97dfc53f9a412b36c129744a25896ddf2d20aef17bdb5fe5b05d19czANzDQk-Ezb7kW-gfOpE2uxg3bawVGJRIKCGpjb7QU |title=Population totale |website=www.ins.ci |access-date=8 October 2025 }}</ref> ||
+|-
+| {{flagicon|Nepal}} [[Demographics of Nepal|Nepal]]
+| {{n+p|29911840|{{worldpop}}|sigfig=1|disp=table}} || {{dts|2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://censusnepal.cbs.gov.np/results/files/result-folder/Population%20Projections%20for%20Nepal.pdf |title=Population Projections for Nepal 2021-2051 |website=www.cbs.gov.np |access-date=14 July 2025|archive-url=https://web.archive.org/web/20250701095028/https://censusnepal.cbs.gov.np/results/files/result-folder/Population%20Projections%20for%20Nepal.pdf|archive-date=2025-07-01}}</ref>||
+|-
+| {{flagicon|Cameroon}} [[Demographics of Cameroon|Cameroon]]
+| {{n+p|29442327|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://ins-cameroun.cm/document/projections-demographiques-et-estimations-des-cibles-prioritaires-des-differents-programmes-et-interventions-de-sante/ |title=Projections demographiques et estimations des cibles prioritaires des differents programmes et interventions de sante |publisher=INS du Cameroun |website=www.ins-cameroun.cm |date=30 June 2023 |access-date=1 July 2025 |archive-date=2 October 2023 |archive-url=https://web.archive.org/web/20231002083019/https://ins-cameroun.cm/document/projections-demographiques-et-estimations-des-cibles-prioritaires-des-differents-programmes-et-interventions-de-sante/ |url-status=live }}</ref> ||
+|-
+| {{flagicon|Ukraine}} [[Demographics of Ukraine|Ukraine]]
+| {{n+p|28700000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 September 2025|abbr=on}}
+| State migration service<ref>https://unn.ua/en/news/ukraine-has-37-million-registered-internally-displaced-persons</ref> || {{efn|Excludes the [[Autonomous Republic of Crimea]] and the city of [[Sevastopol]], Ukraine's ''de jure'' territory which is occupied by Russia (however, includes the [[Donbas]] region, [[2022 Russian invasion of Ukraine|partly occupied by Russia]]).}}
+|-
+| {{flagicon|Venezuela}} [[Demographics of Venezuela|Venezuela]]
+| {{n+p|28517000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| UN projection<ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=4 August 2024 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref> ||
+|-
+| {{flagicon|Australia}} [[Demographics of Australia|Australia]]
+| {{n+p|27614400|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30  June 2025|abbr=on}}
+| Official projection<ref>{{cite web |url = http://www.abs.gov.au/ausstats/abs@.nsf/mf/3101.0 |title = National, state and territory population |date = 19 September 2024 |website = abs.gov.au |access-date = 20 June 2025}}</ref> || {{efn|Excludes the external territories of [[Christmas Island]], the [[Cocos (Keeling) Islands]], and [[Norfolk Island]].}}
+|-
+| {{flagicon|Niger}} [[Demographics of Niger|Niger]]
+| {{n+p|27522750|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://niger.opendataforafrica.org/pmostpd/donn%C3%A9es-d%C3%A9mographiques |title=Données démographiques |publisher=INSN |website=www.stat-niger.org |access-date=6 January 2026 }}</ref> ||
+|-
+| {{flagicon|North Korea}} [[Demographics of North Korea|North Korea]]
+| {{n+p|25950000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url=http://www.searo.who.int/dprkorea/documents/population-projection-dprk-2014-50.pdf |title=Democratic People's Republic of Korea (2014–2050) [pg.40] |access-date=6 February 2025 |archive-url=https://web.archive.org/web/20190412033819/http://www.searo.who.int/dprkorea/documents/population-projection-dprk-2014-50.pdf |archive-date=12 April 2019 |url-status=dead }}</ref>||
+|-
+| {{flagicon|Syria}} [[Demographics of Syria|Syria]]
+| {{n+p|25620427|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Monthly estimate<ref>{{Cite web |title=Syria Population (2025) |url=https://www.worldometers.info/world-population/syria-population/ |access-date=6 January 2026 |website=Worldometer |language=en}}</ref> ||
+|-
+| {{flagicon|Burkina Faso}} [[Demographics of Burkina Faso|Burkina Faso]]
+| {{n+p|24070553|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official projection<ref>{{cite web |url=https://www.insd.bf/sites/default/files/2023-02/VOLUME%204%20PROJECTIONS%20DEMOGRAPHIQUES%202020%202035%20RGPH%20%C3%A9dition%202-%2006-02-2023.pdf |title=PROJECTIONS DEMOGRAPHIQUES 2020–2035 |publisher=INSD Burkina Faso |website=www.insd.bf |date=January 2023 |access-date=1 July 2025}}</ref> ||
+|- class=static-row-numbers-norank
+| {{flagicon|Taiwan}} [[Demographics of Taiwan|Taiwan]]
+| {{n+p|23289045|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 January 2026|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://eng.stat.gov.tw/point.asp?index=9 |title=National Statistics, Taiwan |website=eng.stat.gov.tw |access-date=14 February 2026}}</ref> || {{efn|[[Taiwan]] includes [[Penghu]], [[Kinmen]], [[Matsu Islands|Matsu]] and other minor islands.}}
+|-
+| {{flagicon|Mali}} [[Demographics of Mali|Mali]]
+| {{n+p|22395489|{{worldpop}}|sigfig=1|disp=table}} || {{dts|15 June 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://instat-mali.org/fr |title=TAILLE DE LA POPULATION EN 2022 (HBTS) (SOURCE RÉSULTATS RGPH5) |publisher=INSTAT Mali |website=www.instat-mali.org/fr |date=10 August 2023 |access-date=23 September 2023 |archive-date=3 October 2023 |archive-url=https://web.archive.org/web/20231003092311/https://instat-mali.org/fr |url-status=live}}</ref> ||
+|-
+| {{flagicon|Sri Lanka}} [[Demographics of Sri Lanka|Sri Lanka]]
+| {{n+p|21781800|{{worldpop}}|sigfig=1|disp=table}} || {{dts|19 December 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |url=https://www.statistics.gov.lk/Population/StaticalInformation/CPH2024 |title=Population |publisher=Department of Census and Statistics (DCS) |access-date=6 January 2026}}</ref> ||
+|-
+| {{flagicon|Malawi}} [[Demographics of Malawi|Malawi]]
+| {{n+p|20734262|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/Thematic_Reports/Population%20Projections%202018-2050.pdf |title=Population Projections 2018–2050 |access-date=1 July 2025 |archive-url=https://web.archive.org/web/20240214154949/http://www.nsomalawi.mw/images/stories/data_on_line/demography/census_2018/Thematic_Reports/Population%20Projections%202018-2050.pdf |archive-date=14 February 2024 |url-status=dead}}</ref> ||
+|-
+| {{flagicon|Kazakhstan}} [[Demographics of Kazakhstan|Kazakhstan]]
+| {{n+p|20495975|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://stat.gov.kz/en/ |title=Population |publisher=QAZSTAT |website=www.stat.gov.kz |access-date=7 February 2026}}</ref> ||
+|-
+| {{flagicon|Chile}} [[Demographics of Chile|Chile]]
+| {{n+p|20206953|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.ine.gob.cl/statistics/social/demography-and-vital-statistics/demography |title = Demography |website =www.ine.cl |access-date=24 June 2025 |archive-url=https://web.archive.org/web/20250624124919/https://www.ine.gob.cl/statistics/social/demography-and-vital-statistics/demography |archive-date=24 June 2025 |url-status=live}}</ref> ||
+|-
+| {{flagicon|Zambia}} [[Demographics of Zambia|Zambia]]
+| {{n+p|19693423|{{worldpop}}|sigfig=1|disp=table}} || {{dts|8 September 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://www.zamstats.gov.zm/Publications/Revised%202022%20Census%20of%20Population%20and%20Housing%20Summary%20Report%20Volume%20II.pdf|title=Population Summary Report, Volume Two |website=www.zamstats.gov.zm |date=February 2025 |access-date=24 June 2025}}</ref> ||
+|-
+| {{flagicon|Somalia}} [[Demographics of Somalia|Somalia]]
+| {{n+p|19655000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| UN projection<ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=3 August 2024 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref> || {{efn|Includes [[Somaliland]].}}
+|-
+| {{flagicon|Chad}} [[Demographics of Chad|Chad]]
+| {{n+p|19340757|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.inseed.td/index.php/thematiques/statistique-demographique/population |website=www.inseed-td |publisher=Institut National de la Statistique, des Etudes Economiques et Démographiques |title=Projection de la population totale par année de projection selon le sexe (2009 -2050), Hypothèse moyenne |access-date=1 July 2024}}</ref> ||
+|-
+| {{flagicon|Romania}} [[Demographics of Romania|Romania]]
+| {{n+p|19036031|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://insse.ro/cms/sites/default/files/com_presa/com_pdf/poprez_ian2025e.pdf |title=As of January 1st 2025, the usually resident population was 19036031 persons, a decrease of 31.5 thousand compared to January 1st 2024 |publisher=[[National Institute of Statistics (Romania)|INS]] |website=www.insse.ro |date=29 August 2025 |access-date=29 August 2025}}</ref> ||
+|-
+| {{flagicon|Senegal}} [[Demographics of Senegal|Senegal]]
+| {{n+p|18593258|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.ansd.sn/sites/default/files/2025-04/Rapport%20sur%20la%20Population%20du%20Se%CC%81ne%CC%81gal%202024.pdf |title=Annuaire Population du Sénégal (2024) |publisher=[[:fr:Agence nationale de la statistique et de la démographie|ANSD]] |website=www.ansd.sn |date=3 April 2025 |access-date=29 August 2025}}</ref> ||
+|- 
+| {{flagicon|Netherlands}} [[Demographics of the Netherlands|Netherlands]]
+| {{n+p|18131238
+|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://opendata.cbs.nl/statline/#/CBS/en/dataset/83474ENG/table?ts=1712804860730 |title=Population dynamics – month and year |website=www.opendata.cbs.nl |publisher=Centraal Bureau voor de Statistiek |access-date=6 January 2026}}</ref> || {{efn|Excludes the three constituent countries of the [[Kingdom of the Netherlands]] in the Caribbean Sea ([[Aruba]], [[Curaçao]], and [[Sint Maarten]]), but includes the three special municipalities of the [[Caribbean Netherlands]] ([[Bonaire]], [[Sint Eustatius]] and [[Saba (island)|Saba]]).}}
+|-
+| {{flagicon|Ecuador}} [[Demographics of Ecuador|Ecuador]]
+| {{n+p|18103660|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.ecuadorencifras.gob.ec/documentos/web-inec/Poblacion_y_Demografia/Proyecciones_Poblacionales/censo_2022/revision_2024/1_TABULADOS_excel.zip |title=Estimaciones y Proyecciones de Población - Nivel Nacional, revision 2024 (1950-2050) |publisher=INEC - Ecuador |website=www.ecuadorencifras.gob.ec |access-date=29 August 2025}}</ref> ||
+|-
+| {{flagicon|Guatemala}} [[Demographics of Guatemala|Guatemala]]
+| {{n+p|18079810|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.ine.gob.gt/proyecciones/ |title=Proyecciones Nacionales 1950-2050 |publisher=[[National Institute of Statistics (Guatemala)|website=www.ine.gob.gt]] |access-date=1 July 2025}}</ref> ||
+|-
+| {{flagicon|Cambodia}} [[Demographics of Cambodia|Cambodia]]
+| {{n+p|17577760|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official projection<ref>{{cite web |date = Nov 2021 |url = https://www.nis.gov.kh/nis/Census2019/Population%20Projection.pdf|publisher = National Institute of Statistics |title = Population Projection |access-date=1 July 2025 |archive-date = 8 September 2023 |archive-url = https://web.archive.org/web/20230908123512/https://www.nis.gov.kh/nis/Census2019/Population%20Projection.pdf |url-status = live}}</ref> ||
+|-
+| {{flagicon|Zimbabwe}} [[Demographics of Zimbabwe|Zimbabwe]]
+| {{n+p|17073087|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official projection<ref>{{Cite report|url=http://www.zimstat.co.zw/sites/default/files/img/publications/Census/population_projection.pdf |title=Population Projections Thematic Report |access-date=14 July 2025|publisher=Zimbabwe National Statistics Agency |archive-date = 28 April 2016 |archive-url = https://web.archive.org/web/20160428150301/http://www.zimstat.co.zw/sites/default/files/img/publications/Census/population_projection.pdf |url-status=dead}}</ref> ||
+|-
+| {{flagicon|South Sudan}} [[Demographics of South Sudan|South Sudan]]
+| {{n+p|15786898|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://nbs.gov.ss/wp-content/uploads/2022/05/Population-projections-for-South-Sudan-2020-2040-1.pdf |title=South Sudan Population Projections, 2020–2040 (pg.12) |publisher=National Bureau of Statistics – South Sudan (NBSS) |website =www.nbs.gov.ss |date=January 2016 |access-date=1 July 2025|archive-url=https://web.archive.org/web/20230603205236/https://nbs.gov.ss/wp-content/uploads/2022/05/Population-projections-for-South-Sudan-2020-2040-1.pdf|archive-date=2023-06-03}}</ref>||
+|-
+| {{flagicon|Guinea}} [[Demographics of Guinea|Guinea]]
+| {{n+p|14363931|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=http://www.stat-guinee.org/ |title=Institut National de la Statistique - stat-guinee.org |website=www.stat-guinee.org |access-date=27 February 2025 |archive-date=6 February 2025 |archive-url=https://web.archive.org/web/20250206110433/https://www.stat-guinee.org/ |url-status=live}}</ref> ||
+|-
+| {{flagicon|Rwanda}} [[Demographics of Rwanda|Rwanda]]
+| {{n+p|14104969|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |title=Resident Population |url=https://statistics.gov.rw/ |publisher=[[National Institute of Statistics of Rwanda]] (NISR) |website=www.statistics.gov.rw |access-date=1 July 2025}}</ref> ||
+|-
+| {{flagicon|Benin}} [[Demographics of Benin|Benin]]
+| {{n+p|13224860|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://instad.bj/images/docs/Actualit%C3%A9s/Projection%20r%C3%A9vis%C3%A9e.pdf |title=PROJECTIONS DEMOGRAPHIQUES DE 2014 A 2063 ET PERSPECTIVES DE LA DEMANDE SOCIALE DE 2014 A 2030 AU BENIN |website=www.insae-bj |access-date=1 July 2025 |archive-date=29 May 2023 |archive-url=https://web.archive.org/web/20230529104440/https://instad.bj/images/docs/Actualit%C3%A9s/Projection%20r%C3%A9vis%C3%A9e.pdf |url-status=live}}</ref> ||
+|-
+| {{flagicon|Burundi}} [[Demographics of Burundi|Burundi]]
+| {{n+p|12332788|{{worldpop}}|sigfig=1|disp=table}} || {{dts|16 August 2024|abbr=on}}
+| Preliminary census result<ref>{{cite web |url=https://www.insbu.bi/resultatRGPHAE2024 |title=Résultats du RGPHAE - Édition 2024 |website=www.isteebu.bi |access-date=10 June 2025}}</ref> ||
+|-
+| {{flagicon|Tunisia}} [[Demographics of Tunisia|Tunisia]]
+| {{n+p|11972169|{{worldpop}}|sigfig=1|disp=table}} || {{dts|6 November 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |url=https://www.ins.tn/en/statistiques/111 |title=Population |website=ins.tn |access-date=21 May 2025}}</ref> ||
+|-
+| {{flagicon|Belgium}} [[Demographics of Belgium|Belgium]]
+| {{n+p|11928465|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Official estimate<ref>{{cite web |title=Population movement |url=https://www.ibz.rrn.fgov.be/nl/burger/rijksregister-en-bevolking/bevolking/statistieken-van-bevolking |access-date=16 June 2025 |website=www.ibz.rrn.fgov.be |publisher=[[Federal Public Service Interior|IBZ]]}}</ref>||
+|-
+| {{flagicon|Haiti}} [[Demographics of Haiti|Haiti]]
+| {{n+p|11867032|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://ihsi.gouv.ht/public/statistiques/statistiques_demographiques_et_sociales/projections_et_estimations_de_la_population |title=Projections et estimations de la population 2024 |website =ihsi.gou.ht |access-date=30 March 2025 }}</ref> ||
+|-
+| {{flagicon|Jordan}} [[Demographics of Jordan|Jordan]]
+| {{n+p|11734000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| National estimate<ref>{{cite web |url=https://dosweb.dos.gov.jo/DataBank/Population/Population_Estimares/PopulationEstimates.pdf |title= Estimated population of 2024 and some of selected data |publisher=Department of Statistics (DOS) |website=www.dosweb.dos.gov.jo |date=January 2025 |access-date=12 February 2025 |archive-date = 21 January 2025 |archive-url = https://web.archive.org/web/20250121092623/https://dosweb.dos.gov.jo/DataBank/Population/Population_Estimares/PopulationEstimates.pdf |url-status = dead }}</ref> ||
+|-
+| {{flagicon|Bolivia}} [[Demographics of Bolivia|Bolivia]]
+| {{n+p|11365333|{{worldpop}}|sigfig=1|disp=table}} || {{dts|23 March 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |url=https://censo.ine.gob.bo/ |title=Censo Bolivia 2024 |publisher=[[National Institute of Statistics of Bolivia]] |website=www.ine.gob.bo |access-date=3 December 2024}}</ref> ||
+|-
+| {{flagicon|United Arab Emirates}} [[Demographics of the United Arab Emirates|United Arab Emirates]]
+| {{n+p|11294243|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://fcsc.gov.ae/uae-stat-category-data/?dataflowid=DF_POP&category=Demography%20and%20Social&subcategory=Population%20Estimates |title=UAE Population by Gender |website=fcsc.gov.ae |access-date=6 October 2025}}</ref> ||
+|-
+| {{flagicon|Czechia}} [[Demographics of the Czech Republic|Czechia]]
+| {{n+p|10897178|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 September 2025|abbr=on}}
+| Official estimate<ref>{{cite web |title=Population |url=https://csu.gov.cz/home |publisher=[[Czech Statistical Office]] (CZSO) |date=12 December 2025 |access-date=6 January 2026}}</ref> ||
+|-
+| {{flagicon|Dominican Republic}} [[Demographics of the Dominican Republic|Dominican Republic]]
+| {{n+p|10771504|{{worldpop}}|sigfig=1|disp=table}} || {{dts|10 November 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://www.one.gob.do/datos-y-estadisticas/temas/censos/poblacion-y-vivienda/2022/ |title=Población por sexo, según provincia de residencia |publisher=Oficina Nacional de Estadística (ONE) |website=www.one.gob.do |date= |access-date=12 November 2024 |archive-url=https://web.archive.org/web/20240627163434/https://www.one.gob.do/datos-y-estadisticas/temas/censos/poblacion-y-vivienda/2022/ |archive-date=27 June 2024 |url-status=live }}</ref> ||
+|-
+| {{flagicon|Portugal}} [[Demographics of Portugal|Portugal]]
+| {{n+p|10749635|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web|url=https://www.ine.pt/xportal/xmain?xpid=INE&xpgid=ine_destaques&DESTAQUESdest_boui=707078398&DESTAQUESmodo=2|title=População residente ultrapassa os 10,7 milhões – 2024|website=ine.pt|publisher=[[Instituto Nacional de Estatística (Portugal)|INE]]|access-date=18 June 2025}}</ref> ||
+|-
+| {{flagicon|Sweden}} [[Demographics of Sweden|Sweden]]
+| {{n+p|10605529|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://www.scb.se/en/ |title=Population statistics |publisher=[[Statistics Sweden]] |website=www.scb.se |access-date=15 January 2026}}</ref> ||
+|-
+| {{flagicon|Tajikistan}} [[Demographics of Tajikistan|Tajikistan]]
+| {{n+p|10499000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.stat.tj/en/ |title=Population |publisher=TAJSTAT |website=www.stat.tj |date=28 March 2024 |access-date=1 July 2025}}</ref> ||
+|-
+| {{flagicon|Greece}} [[Demographics of Greece|Greece]]
+| {{n+p|10372335|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |title=Estimated Population and Migration Flows, 2025 |url=https://www.statistics.gr/documents/20181/d8439ad7-d043-2235-f4b4-8466c3c9cd56 |publisher=[[Hellenic Statistical Authority]] |access-date=18 December 2025 |location=Piraeus |date=18 December 2025}}</ref> ||
+|-
+| {{flagicon|Azerbaijan}} [[Demographics of Azerbaijan|Azerbaijan]]
+| {{n+p|10259701|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 December 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://www.azstat.gov.az/portal/?lang=az |title=Azərbaycanda demoqrafik |publisher=[[State Statistics Committee|AZSTAT]] (portal ASIS) |website=www.stat.gov.az |access-date=27 January 2026}}</ref> ||
+|-
+| {{flagicon|Papua New Guinea}} [[Demographics of Papua New Guinea|Papua New Guinea]]
+| {{n+p|10185363|{{worldpop}}|sigfig=1|disp=table}} || {{dts|16 June 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |url = https://www.nso.gov.pg/statistics/population/ |title = Population |website = nso.gov.pg |access-date = 10 November 2025 |archive-date = 9 November 2025 |archive-url = https://web.archive.org/web/20251109192131/https://www.nso.gov.pg/statistics/population/ |url-status = live }}</ref> ||
+|-
+| {{flagicon|Israel}} [[Demographics of Israel|Israel]]
+| {{n+p|10176900|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url = https://www.cbs.gov.il/en/Statistics/Pages/Generators/Time-Series-DataBank.aspx?r=ea3bd53b-b8ef-4c4a-8f6f-8eb5e8cdb84f&uptodate=1 |title = Time Series DataBank |date = |website = cbs.gov.il |access-date=7 February 2026}}</ref> || {{efn|Includes [[East Jerusalem]] and the [[Golan Heights]]. Also includes [[Israeli settlement|Israeli settlers]] within [[Area C (West Bank)|Area C]] of the [[West Bank]].}}
+|-
+| {{flagicon|Honduras}} [[Demographics of Honduras|Honduras]]
+| {{n+p|9892632|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.ine.gob.hn/publicaciones/Censos/Censo_2013/09Tomo-IX-Proyecciones-de-Poblacion/Cuadros%20xls/1.pdf |title=TOMO: HONDURAS: PROYECCIONES DE POBLACIÓN 2013–2050 |website=INE – Instituto Nacional de Estadística Honduras |access-date=2 July 2024 |archive-date=5 April 2023 |archive-url=https://web.archive.org/web/20230405210701/https://www.ine.gob.hn/publicaciones/Censos/Censo_2013/09Tomo-IX-Proyecciones-de-Poblacion/Cuadros%20xls/1.pdf |url-status=live }}</ref> ||
+|-
+| {{flagicon|Cuba}} [[Demographics of Cuba|Cuba]]
+| {{n+p|9748007|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=http://www.onei.gob.cu/node/13815 |title=Indicadores Demográficos por provincias y municipios 2024 |website =www.onei.gob.cu |access-date=18 June 2025}}</ref> ||
+|-
+| {{flagicon|Hungary}} [[Demographics of Hungary|Hungary]]
+| {{n+p|9489000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.ksh.hu/stadat_files/nep/en/nep0001.html |title=22.1.1.1. Main indicators of population and vital events|publisher=Hungarian Central Statistical Office (KSH) |website=www.ksh.hu |access-date=27 June 2025 }}</ref> ||
+|-
+| {{flagicon|Austria}} [[Demographics of Austria|Austria]]
+| {{n+p|9219113|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url=https://www.statistik.at/en/statistics/population-and-society/population/population-stock/population-at-beginning-of-year/quarter |title=Population at beginning of year/quarter |website=www.statistik.at |access-date=10 February 2026}}</ref> ||
+|-
+| {{flagicon|Belarus}} [[Demographics of Belarus|Belarus]]
+| {{n+p|9109280|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=http://dataportal.belstat.gov.by/Indicators/Preview?key=144299 |title=Population at the beginning of 2022 |website=belstat.gov.by |access-date=3 August 2022 |archive-date=5 January 2023 |archive-url=https://web.archive.org/web/20230105133324/http://dataportal.belstat.gov.by/Indicators/Preview?key=144299 |url-status=live}}</ref> ||
+|-
+| {{flagicon|Switzerland}} [[Demographics of Switzerland|Switzerland]]
+| {{n+p|9104063 |{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 September 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url=https://www.bfs.admin.ch/bfs/de/home/statistiken/bevoelkerung.assetdetail.36078937.html |title=Ständige Wohnbevölkerung nach Staatsangehörigkeitskategorie, Alter und Kanton, 2. Quartal 2025 |language=de |date=5 September 2025|publisher=Bundesamt für Statistik |website=bfs.admin.ch |access-date=5 September 2025}}</ref> ||
+|-
+| {{flagicon|Sierra Leone}} [[Demographics of Sierra Leone|Sierra Leone]]
+| {{n+p|9077691|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite report|url=https://www.statistics.sl/images/StatisticsSL/Documents/Census/2015/sl_2015_phc_thematic_report_on_population_projections.pdf |title=Sierra Leone 2015 Population and Housing Census – Thematic Report on Population Projections|author=Gershon P. Y. Togoh|author2=Abu Bakarr Turay|author3=Allieu Komba |date=Oct 2017|publisher=Statistics Sierra Leone |website =www.statistics.sl |access-date=15 July 2025 |archive-url=https://web.archive.org/web/20191113162606/https://www.statistics.sl/images/StatisticsSL/Documents/Census/2015/sl_2015_phc_thematic_report_on_population_projections.pdf |archive-date=13 November 2019 |url-status=live}}</ref> ||
+|-
+| {{flagicon|Togo}} [[Demographics of Togo|Togo]]
+| {{n+p|8095498|{{worldpop}}|sigfig=1|disp=table}} || {{dts|8 November 2022|abbr=on}}
+| 2022 census result<ref>{{cite press release |url=https://inseed.tg/wp-content/uploads/2023/04/Communique_de_presse_Resultats_RGPH5_20230404.pdf |title=Resultats RGPH5 |language=fr |website=inseed.tg |access-date=20 April 2023 |archive-date=18 April 2023 |archive-url=https://web.archive.org/web/20230418035453/https://inseed.tg/wp-content/uploads/2023/04/Communique_de_presse_Resultats_RGPH5_20230404.pdf |url-status=live }}</ref> ||
+|-
+| {{flagicon|Laos}} [[Demographics of Laos|Laos]]
+| {{n+p|7647000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url = https://laosis.lsb.gov.la/majorIndicators.do?paramGrpId=all |title = Distribution of citizens by gender and age group |website = laosis.lsb.gov.la |access-date = 15 July 2025 |archive-date = 23 May 2025 |archive-url = https://web.archive.org/web/20250523025803/https://laosis.lsb.gov.la/majorIndicators.do?paramGrpId=all |url-status = live }}</ref> ||
+|- class=static-row-numbers-norank
+| {{flagicon|Hong Kong}} [[Demographics of Hong Kong|Hong Kong]] (China)
+| {{n+p|7527500|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| National estimate<ref>{{cite web |url=https://www.censtatd.gov.hk/hkstat/sub/so20.jsp |title=Population – Overview &#124; Census and Statistics Department |website=www.censtatd.gov.hk |access-date=15 August 2025 }}</ref> ||
+|-
+| {{flagicon|Libya}} [[Demographics of Libya|Libya]]
+| {{n+p|7459000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| UN projection<ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=2 August 2024 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref> ||
+|-
+| {{flagicon|Kyrgyzstan}} [[Demographics of Kyrgyzstan|Kyrgyzstan]]
+| {{n+p|7281800|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://stat.gov.kg/ru/statistics/naselenie/ |title=Население |access-date=15 July 2025 }}</ref> ||
+|-
+| {{flagicon|Turkmenistan}} [[Demographics of Turkmenistan|Turkmenistan]]
+| {{n+p|7057841|{{worldpop}}|sigfig=1|disp=table}} || {{dts|17 December 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://www.stat.gov.tm/ |title=Итоги сплошной переписи населения и жилищного фонда Туркменистана 2022 года |date=14 July 2023 |website=www.stat.gov.tm/ |access-date=21 September 2023 |archive-date=20 July 2023 |archive-url=https://web.archive.org/web/20230720125616/https://www.stat.gov.tm/ |url-status=live}}</ref> ||
+|-
+| {{flagicon|Nicaragua}} [[Demographics of Nicaragua|Nicaragua]]
+| {{n+p|6874748|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.inide.gob.ni/docs/Anuarios/Anuario2023/Anuario_Estadistico_2023.pdf |title=Anuario Estadístico 2023 |website=www.inide.gob.ni |access-date=6 January 2026 }}</ref> ||
+|-
+| {{flagicon|Serbia}} [[Demographics of Serbia|Serbia]]
+| {{n+p|6567783|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://stat.gov.rs/en-US |title=Population |publisher=Statistical Office of the Republic of Serbia (РЗС) |website=www.stat.gov.rs |access-date=1 July 2025 |language=en |archive-date=1 July 2025 |archive-url=https://web.archive.org/web/20250701172959/https://stat.gov.rs/en-US |url-status=live }}</ref>|| {{efn|Excludes [[Kosovo]].}}
+|-
+| {{flagicon|Central African Republic}} [[Demographics of the Central African Republic|Central African Republic]]
+| {{n+p|6470307|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url = https://www.icasees.org/index.php/actualites/population-de-la-republique-centrafricaine-en-2021-et-2024 |title = Population of the central African Republic in 2021 and 2024 |date = 14 May 2024 |website = icasees.org |access-date = 5 September 2024 |archive-date = 29 May 2024 |archive-url = https://web.archive.org/web/20240529142921/https://www.icasees.org/index.php/actualites/population-de-la-republique-centrafricaine-en-2021-et-2024 |url-status = dead }}</ref> ||
+|-
+| {{flagicon|Bulgaria}} [[Demographics of Bulgaria|Bulgaria]]
+| {{n+p|6437360|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.nsi.bg/en/content/22292/%D0%BF%D1%80%D0%B5%D1%81%D1%81%D1%8A%D0%BE%D0%B1%D1%89%D0%B5%D0%BD%D0%B8%D0%B5/population-and-demographic-processes-2024 |title=Population and Demographic Processes in 2024 |date=29 April 2025|language=Bulgarian |website=www.nsi.bg |access-date=9 May 2025}}</ref> ||
+|-
+| {{flagicon|Congo}} [[Demographics of the Republic of the Congo|Congo]]
+| {{n+p|6142180|{{worldpop}}|sigfig=1|disp=table}} || {{dts|17 May 2023|abbr=on}}
+| 2023 census result<ref>{{cite web |url=https://ins-congo.cg/download/resultats-preliminaires/?wpdmdl=4068&amp;refresh=65af84d0d8a631706001616 |title= Le cinquième Recensement Général de la Population et de l'habitation du Congo (RGPH-5) / pg.VIII |publisher=INS Congo |website=www.ins-congo.cg |date=29 December 2023 |access-date=23 January 2024}}</ref> ||
+|-
+| {{flagicon|Singapore}} [[Demographics of Singapore|Singapore]]
+| {{n+p|6110200|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.population.gov.sg/files/media-centre/publications/Population_in_Brief_2025.pdf|title=Population in Brief 2025|website=www.population.gov.sg |access-date=30 September 2025}}</ref> ||
+|-
+| {{flagicon|Paraguay}} [[Demographics of Paraguay|Paraguay]]
+| {{n+p|6109644|{{worldpop}}|sigfig=1|disp=table}} || {{dts|9 November 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://www.ine.gov.py/censo2022/documentos/Presentacion%20resultados%20finales%20censo.pdf |title=Resultados finales del Censo Nacional de Población y Viviendas 2022 |date=31 August 2023 |website=ABC Color|language=ES |access-date=10 June 2025 |archive-url=https://web.archive.org/web/20241005232204/https://www.ine.gov.py/censo2022/documentos/Presentacion%20resultados%20finales%20censo.pdf |archive-date= 2024-10-05 |url-status=live}}</ref> ||
+|-
+| {{flagicon|El Salvador}} [[Demographics of El Salvador|El Salvador]]
+| {{n+p|6029976|{{worldpop}}|sigfig=1|disp=table}} || {{dts|2 May 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |url=https://censo2024.bcr.gob.sv/wp-content/uploads/tablas-geoportal/presentacion-nacional-resultados-censo-poblacion-vivienda-el-salvador-2024.pdf |title=Censo de Población y Vivienda El Salvador 2024 |publisher=Government of El Salvador |access-date=27 February 2025 |archive-url=https://web.archive.org/web/20250214081548/https://censo2024.bcr.gob.sv/wp-content/uploads/tablas-geoportal/presentacion-nacional-resultados-censo-poblacion-vivienda-el-salvador-2024.pdf?download=1 |archive-date=14 February 2025 |url-status=live}}</ref> ||
+|-
+| {{flagicon|Denmark}} [[Demographics of Denmark|Denmark]]
+| {{n+p|6025603|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=http://www.dst.dk/en/Statistik/emner/befolkning-og-valg/befolkning-og-befolkningsfremskrivning/folketal |title=Population figures |website=www.dst.dk |access-date=12 November 2025}}</ref> || {{efn|Excludes the [[Faroe Islands]] and [[Greenland]].}}
+|-
+| {{flagicon|Finland}} [[Demographics of Finland|Finland]]
+| {{n+p|5657608|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 February 2026|abbr=on}}
+| Monthly national estimate<ref name="pxnet2.stat.fi">{{cite web |url=https://pxdata.stat.fi/PXWeb/pxweb/en/StatFin/StatFin__vamuu/statfin_vamuu_pxt_11lj.px |title=Statistics Finland – Population – Preliminary population statistics |website=statfin.stat.fi |access-date=29 October 2025 }}</ref> || {{efn|Includes [[Åland]].}}
+|-
+| {{flagicon|Norway}} [[Demographics of Norway|Norway]]
+| {{n+p|5627400 |{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url=https://www.ssb.no/en |title=2020-01-01 |website=ssb.no |access-date=20 November 2025 }}</ref> || {{efn|Includes [[Svalbard]].}}
+|-
+| {{flagicon|Lebanon}} [[Demographics of Lebanon|Lebanon]]
+| {{n+p|5490000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2021|abbr=on}}
+| Official estimate<ref>{{cite web |url = https://www.citypopulation.de/en/lebanon/cities/ |title = Lebanese Republic |date = 2 March 2019 |website = City Population |access-date = 16 May 2023 |archive-date = 20 September 2023 |archive-url = https://web.archive.org/web/20230920133612/https://www.citypopulation.de/en/lebanon/cities/ |url-status = live }}</ref> ||
+|-
+| {{flagicon|Palestine}} [[Demographics of the State of Palestine|Palestine]]
+| {{n+p|5483450|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2023|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://pcbs.gov.ps/statisticsIndicatorsTables.aspx?lang=ar&table_id=676 |title=عدد السكان المقدر في فلسطين منتصف العام حسب المحافظة، 1997–2026 |website =www.pcbs.gov.ps |access-date=1 February 2023 |archive-url=https://web.archive.org/web/20221207112247/https://pcbs.gov.ps/statisticsIndicatorsTables.aspx?lang=ar&table_id=676 |archive-date=7 December 2022 |url-status=live}}</ref> || {{efn|Excludes [[East Jerusalem]] or [[Israeli settlement]]s in the [[West Bank]].}}
+|-
+| {{flagicon|Ireland}} [[Demographics of the Republic of Ireland|Ireland]]
+| {{n+p|5458600|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 April 2025|abbr=on}}
+| National estimate<ref>{{cite web |url=https://www.cso.ie/en/releasesandpublications/ep/p-pme/populationandmigrationestimatesapril2024/ |title=Population and Migration Estimates, April 2024 |website=www.cso.ie |date=27 August 2024 |access-date=15 September 2024 }}</ref> ||
+|-
+| {{flagicon|Slovakia}} [[Demographics of Slovakia|Slovakia]]
+| {{n+p|5413191|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 September 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url= https://slovak.statistics.sk/wps/portal/ext/products/informationmessages/inf_sprava_detail/!ut/p/z1/tVHBUsIwEP0ajplsmzQNx8BgW0RGwArNxUlLIhVIC3Sq_L2p40UdcDy4l92deW_nvX1Y4hWWVrXls2rKyqqd2zPJnmZhwgcDTwAMJgSS8e1iGg9v_CgN8PIrgE_nI0gexH00H1MPaIDldf4jllgWtqmbDc6q_KQ2SFtUWoPUtumBG6rj3qlprUan-qjacw_ak262rvcZJwHXDK0DjyOaaw_lSmtEPKaY9jVVDLrzdVGucWaU6RNGGOJ5bhAtmI_yEHykKDWFCYivw_V3Oz_1dnbgQglwfPkBGUYipuEEgE-iABIRp_P-jBAQ5BNw5UbmNIQXNXghXralfsWp7T6zw4s_WowBj39LxcVevhwOUrhsKtvotwav_iOcep_uOTmjrbkbESqzdxZj3w0!/dz/d5/L2dBISEvZ0FBIS9nQSEh/ |title=Stock of population in the SR on 30 September 2025 |publisher=Statistical Office of the Slovak Republic (SUSR) |website=slovak.statistics.sk |date=28 November 2025 |access-date=28 November 2025}}</ref> ||
+|-
+| {{flagicon|Oman}} [[Demographics of Oman|Oman]]
+| {{n+p|5359557|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://api.ncsi.gov.om/uploads/pdfs/monthly_statistical_bulletin___january_2026_ar_1769060640.pdf |title=Monthly Statistical Bulletin: January 2026 |website=ncsi.gov.om |date=21 January 2026 |access-date=7 February 2026 }}</ref> ||
+|-
+| {{flagicon|New Zealand}} [[Demographics of New Zealand|New Zealand]]
+| {{n+p|5342000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url =https://www.stats.govt.nz/indicators/population-of-nz/ |title =Estimated population of NZ |date =17 November 2025 |website =stats.govt.nz |access-date =20 November 2025 }}</ref> || {{efn|Excludes the two self-governing associated states of the [[Cook Islands]] and [[Niue]], and the dependent territory of [[Tokelau]].}}
+|-
+|{{flagicon|Liberia}} [[Demographics of Liberia|Liberia]]
+| {{n+p|5248621|{{worldpop}}|sigfig=1|disp=table}} || {{dts|10 November 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://liberia.un.org/en/220493-liberia-announces-provisional-results-its-5th-national-population-and-housing-census |title=Liberia announces provisional results of its 5th National Population and Housing Census |publisher=United Nations Liberia |website=www.liberia.un.org |date=23 February 2023 |access-date=14 October 2023 |archive-date=24 March 2023 |archive-url=https://web.archive.org/web/20230324043346/https://liberia.un.org/en/220493-liberia-announces-provisional-results-its-5th-national-population-and-housing-census |url-status=live }}</ref> ||
+|-
+|{{flagicon|Costa Rica}} [[Demographics of Costa Rica|Costa Rica]]
+| {{n+p|5191824|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://admin.inec.cr/sites/default/files/2025-10/repoblaceppsubnaciokitcuadros2000-2050.xlsx |title=Subnational Population Estimates and Projections 2000 - 2050. Chart Kit |website=www.inec.go.cr |date=30 June 2025 |access-date=20 November 2025 }}</ref> ||
+|-
+|{{flagicon|Mauritania}} [[Demographics of Mauritania|Mauritania]]
+| {{n+p|4927532|{{worldpop}}|sigfig=1|disp=table}} || {{dts|25 December 2023|abbr=on}}
+| 2023 census result<ref>{{cite web |url=https://ansade.mr/wp-content/uploads/2024/09/Depliant-RGPH5-1.pdf |title=Recensement Général de la Population et de l'Habitat (RGPH-5 2023) |publisher=ANSADE – Mauritanie |website=www.ansade.mr |date=September 2024 |access-date=23 October 2024}}</ref> ||
+|-
+| {{flagicon|Kuwait}} [[Demographics of Kuwait|Kuwait]]
+| {{n+p|4881254|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.csb.gov.kw/Default_EN |title=Population Estimates at the beginning of 2025 |website=www.csb.gov.kw |access-date=11 August 2025 }}</ref> ||
+|-
+|{{flagicon|Panama}} [[Demographics of Panama|Panama]]
+| {{n+p|4064780|{{worldpop}}|sigfig=1|disp=table}} || {{dts|8 January 2023|abbr=on}}
+| 2023 census result<ref>{{cite web |url=https://www.inec.gob.pa/archivos/P053342420231009161532Comentarios_Poblacion%20RFB%202023%20VF.pdf |title=Censos década – 2023 |publisher=[[:es:Instituto Nacional de Estadística y Censo (Panamá)|INEC de Panamá]] |website=www.inec.gob.pa |date=9 October 2023 |access-date=9 March 2023}}</ref> ||
+|-
+| {{flagicon|Croatia}} [[Demographics of Croatia|Croatia]]
+| {{n+p|3866233|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url = https://podaci.dzs.hr/2025/en/97254 |title = POPULATION ESTIMATE OF THE REPUBLIC OF CROATIA, 2024 |website = podaci.dzs.hr |date = 29 August 2025 |access-date = 5 September 2025}}</ref> ||
+|-
+| {{flagicon|Georgia}} [[Demographics of Georgia (country)|Georgia]]
+| {{n+p|3704500|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=http://geostat.ge/en |title=National Statistics Office of Georgia |website=www.geostat.ge |access-date=9 May 2025}}</ref> || {{efn|Excludes [[Abkhazia]] (242,862, census 2011) and [[South Ossetia]] (53,559, census 2015).}}
+|-
+|{{flagicon|Eritrea}} [[Demographics of Eritrea|Eritrea]]
+| {{n+p|3607000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| UN projection<ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=2 August 2024 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref> (see note) ||
+{{efn|name=Population | Eritrea has never conducted an official government census.<ref name="PHS2010_full">{{cite web | title= Eritrea – Population and Health Survey 2010 | website= [[National Statistics Office (Eritrea)|National Statistics Office]], [[Fafo Institute for Applied International Studies]] |year = 2010 | url =https://www.unicef.org/eritrea/ECO_resources_populationhealthsurvey2010.pdf | access-date = 2021-03-03 |archive-url= https://web.archive.org/web/20190606121847/https://www.unicef.org/eritrea/ECO_resources_populationhealthsurvey2010.pdf |archive-date= 2019-06-06 |url-status=live }}</ref> Sources disagree about the current population:
+* The UN gives an estimate of 3,502,000 for 2024.<ref name="UN pop">{{cite web |url = https://population.un.org/wpp/assets/Files/WPP2024_Summary-of-Results.pdf |title = World Population Prospects 2024 Summary of Results |at = p61 |website = un.org |access-date = 25 Jan 2025}}</ref>
+* The [[Cabinet of Ministers of Eritrea|Eritrea Ministry Of Information]] gives an estimate of 5.8 million for 2020.<ref>{{cite web |url=https://shabait.com/2020/11/04/the-role-of-insurance-in-a-developing-society-a-perspective-from-the-eritrean-insurance-profession/ |title=The Role of Insurance in a Developing Society a perspective from the Eritrean insurance profession |publisher=Eritrea Ministry Of Information |website=www.shabait.com |date=4 November 2020 |access-date=26 January 2025}}</ref>
+* The BBC gives an estimate of 6.2 million for 2023.<ref>{{cite web |url = https://www.bbc.com/news/world-africa-13349078 |title = Eritrea country profile |website = BBC|date = 10 May 2011 |access-date = 25 Jan 2025}}</ref>
+* The [[US Census Bureau]] gives an estimate of 6.4 million for 2025.<ref name="USCB pop">{{cite web |url = https://www.census.gov/popclock/world/er |title = Eritrea |website = census.gov |access-date = 25 Jan 2025}}</ref>
+* [[Encyclopedia Britannica]] gives an estimate of 6,416,000 for 2025.<ref>{{cite web |url = https://www.britannica.com/facts/Eritrea |title = Eritrea: Facts & Stats |website = britannica.com |access-date = 25 Jan 2025}}</ref>
+All figures are mid-year.}}
+|-
+| {{flagicon|Mongolia}} [[Demographics of Mongolia|Mongolia]]
+| {{n+p|3544835|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url=http://www.nso.mn/ |title=Unified Database of Statistics |website=nso.mn |access-date=19 June 2023 |archive-date=27 September 2018 |archive-url=https://web.archive.org/web/20180927122656/http://www.nso.mn/ |url-status=live }}</ref> ||
+|-
+|{{flagicon|Uruguay}} [[Demographics of Uruguay|Uruguay]]
+| {{n+p|3485931|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.gub.uy/instituto-nacional-estadistica/proyeccionesrev2025 |title = Proyecciones de población revisión 2025 |website=www.ine.gub.uy |access-date=15 January 2026 }}</ref> ||
+|-
+| {{flagicon|Bosnia and Herzegovina}} [[Demographics of Bosnia and Herzegovina|Bosnia and Herzegovina]]
+| {{n+p|3412000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| Official estimate<ref name="bhas_gov_ba">{{Cite journal|journal=Thematic Bulletin|ISSN=1840-104X |url=https://bhas.gov.ba/data/Publikacije/Bilteni/2025/DEM_00_2024_TB_1_BS.pdf |page=26 |title=Demografija, 2024. |date=6 November 2025 |access-date=2025-12-20 |publisher=Agency for Statistics of Bosnia and Herzegovina|language=bs,en 
+}}</ref> ||
+|-
+| {{flagicon|Qatar}} [[Demographics of Qatar|Qatar]]
+| {{n+p|3214609|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Monthly national estimate<ref>{{Cite web |title=Statistical Key Indicators |url=https://www.npc.qa/en/statistics/pages/allIndicators.aspx?Indicator=population |access-date=2026-01-15 |website=www.npc.qa |language=en-GB}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Puerto Rico}} [[Demographics of Puerto Rico|Puerto Rico]] (US)
+| {{n+p|3184195|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Annual projection<ref name="census">{{cite web |url=https://www.census.gov/quickfacts/PR |publisher=[[United States Census Bureau]] |title=Quick Facts Puerto Rico |date= |access-date=7 February 2026}}</ref> ||
+|-
+|{{flagicon|Armenia}} [[Demographics of Armenia|Armenia]]
+| {{n+p|3076200|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://statbank.armstat.am/pxweb/en/ArmStatBank/ArmStatBank__2%20Population%20and%20social%20processes__28%20Population/PS-pp-7-2021.px/table/tableViewLayout1/ |title=Population (De Jure) by years and indicators |publisher=Statistical Committee of the Republic of Armenia |website=www.armstat.am |access-date=28 February 2025 }}</ref> ||
+|-
+|{{flagicon|Namibia}} [[Demographics of Namibia|Namibia]]
+| {{n+p|3022401|{{worldpop}}|sigfig=1|disp=table}} || {{dts|24 September 2023|abbr=on}}
+| 2023 Census<ref>{{cite web |url=https://census.nsa.org.na/ |title=Namibia – Census (2023) |publisher=Namibia Statistics Agency |website=www.census.nsa.org.na |access-date=18 April 2024 |archive-date=13 March 2024 |archive-url=https://web.archive.org/web/20240313094106/https://census.nsa.org.na/ |url-status=dead }}</ref> ||
+|-
+| {{flagicon|Lithuania}} [[Demographics of Lithuania|Lithuania]]
+| {{n+p|2897009|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://osp.stat.gov.lt/ |title=Pradžia – Oficialiosios statistikos portalas |website=osp.stat.gov.lt |access-date=15 January 2026}}</ref> ||
+|-
+|{{flagicon|Jamaica}} [[Demographics of Jamaica|Jamaica]]
+| {{n+p|2774538|{{worldpop}}|sigfig=1|disp=table}} || {{dts|12 September 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://statinja.gov.jm/Census/PopCensus/Popcensus2022Index.aspx |title=Census 2022 |access-date=3 November 2025 |website=statinja.gov.jm }}</ref> ||
+|-
+|{{flagicon|Gabon}} [[Demographics of Gabon|Gabon]]
+| {{n+p|2469296|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.statgabon.ga/wp-content/uploads/2020/08/Rapport-Projection_Final.pdf |title=Projection de la Population Gabon 2019–2025 |website=www.statgabon.ga |access-date=3 July 2024 |archive-url=https://web.archive.org/web/20210429022734/https://www.statgabon.ga/wp-content/uploads/2020/08/Rapport-Projection_Final.pdf |archive-date=29 April 2021 |url-status=live}}</ref> ||
+|-
+| {{flagicon|Gambia}} [[Demographics of the Gambia|Gambia]]
+| {{n+p|2422712|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 May 2024|abbr=on}}
+| Preliminary census results<ref>{{cite web |url=https://www.gbosdata.org/downloads/142-2024-population-and-housing-census-reports |title=2024 GPHC Preliminary Report |access-date=15 July 2025 |archive-date=21 May 2025 |archive-url=https://web.archive.org/web/20250521051920/https://www.gbosdata.org/downloads/142-2024-population-and-housing-census-reports |url-status=live}}</ref> ||
+|-
+| {{flagicon|Moldova}} [[Demographics of Moldova|Moldova]]
+| {{n+p|2381300|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://statistica.gov.md/en/statistic_indicator_details/25 |title=Population |publisher=Biroului Național de Statistică (BNS) |website=statistica.gov.md |access-date=12 June 2025 }}</ref> || {{efn|Excludes [[Transnistria]].}}
+|-
+| {{flagicon|Albania}} [[Demographics of Albania|Albania]]
+| {{n+p|2363314|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.instat.gov.al/en/themes/demography-and-social-indicators/population/publication/2025/population-of-albania-on-1st-january-2025// |title=Population of Albania on 1 Jan 2025 |access-date=21 June 2025 |archive-date=20 September 2023 |archive-url=https://web.archive.org/web/20230920124542/https://www.instat.gov.al/en/themes/demography-and-social-indicators/population/publication/2023/population-of-albania-on-1st-january-2023/ |url-status=live}}</ref> ||
+|-
+| {{flagicon|Botswana}} [[Demographics of Botswana|Botswana]]
+| {{n+p|2359609|{{worldpop}}|sigfig=1|disp=table}} || {{dts|18 March 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=http://www.statsbots.org.bw/sites/default/files/publications/Botswana%20Population%20Projections%202011_2026.pdf |title=Population Distribution , Structure, Density and Policy Implications in Botswana |website=www.statsbots.org.bw |access-date=May 22, 2025 }}</ref> ||
+|-
+|{{flagicon|Slovenia}} [[Demographics of Slovenia|Slovenia]]
+| {{n+p|2133852|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 October 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url=https://www.stat.si/statweb |title=Prebivalci Slovenije |website=www.stat.si |access-date=7 February 2026}}</ref> ||
+|-
+|{{flagicon|Lesotho}} [[Demographics of Lesotho|Lesotho]]
+| {{n+p|2116427|{{worldpop}}|sigfig=1|disp=table}} || {{Dts|2024}}
+| Official survey<ref>{{Cite web |year=2024 |title=2024 Labour Force Survey (LFS) Report |url=http://www.bos.gov.ls/New%20Folder/Copy%20of%20Demography/2024_Labour_force_Survey_Report.pdf |access-date=10 September 2025 |page=7 |publisher=Bureau of Statistics}}</ref>||
+|-
+|{{flagicon|Guinea-Bissau}} [[Demographics of Guinea-Bissau|Guinea-Bissau]]
+| {{n+p|1852784|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url = https://www.stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/projecoes/relatorio_projecao_2014_2063.pdf |title = PROJECÇÃO DEMOGRÁFICA 2014 - 2063 |website = stat-guinebissau |access-date = 22 June 2025 |archive-date = 22 June 2025 |archive-url = https://web.archive.org/web/20250622202814/https://www.stat-guinebissau.com/Menu_principal/IV_RGPH/rgph1/projecoes/relatorio_projecao_2014_2063.pdf |url-status = live }}</ref> ||
+|-
+|{{flagicon|Latvia}} [[Demographics of Latvia|Latvia]]
+| {{n+p|1823500|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://data.stat.gov.lv/pxweb/en/OSP_PUB/START__POP__IR__IRS/IRS010m/ |title=IRS010m. Population and main dataSw of vital statistics 1995M01 – 2026M01 |website=Statistikas datubāzes |access-date=14 February 2026 }}</ref> ||
+|-
+|{{flagicon|North Macedonia}} [[Demographics of North Macedonia|North Macedonia]]
+| {{n+p|1822612|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |title=Indicators |url=https://www.stat.mk/en/site-indikatori/ |publisher=State Statistical Office of The Republic of North Macedonia |access-date=25 October 2025}}</ref>||
+|-
+|{{flagicon|Equatorial Guinea}} [[Demographics of Equatorial Guinea|Equatorial Guinea]]
+| {{n+p|1668768|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://inege.org/ |title=INEGE |website=www.inege.org |access-date=11 August 2025 |archive-url=https://web.archive.org/web/20250811064049/https://inege.org/ |archive-date=11 August 2025 |url-status=live}}</ref> ||
+|-
+|{{flagicon|Bahrain}} [[Demographics of Bahrain|Bahrain]]
+| {{n+p|1594654|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url = https://bahrain.opendatasoft.com/explore/?refine.theme=Population&disjunctive.theme&sort=modified |title = Population |date = |website = bahrain.opendatasoft.com |access-date = 31 May 2025 }}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Kosovo}} [[Demographics of Kosovo|Kosovo]]
+| {{n+p|1585566|{{worldpop}}|sigfig=1|disp=table}} || {{dts|4 April 2024|abbr=on}}
+| 2024 national census<ref>{{cite web |url=https://askapi.rks-gov.net/Custom/31bc24d2-45e4-4eb5-a567-405f4bdd197f.pdf |title=ReKos 2024 (pg. 32-35) |publisher=[[Kosovo Agency of Statistics]] (ASK) |website=www.ask.rks-gov.net |language=Albanian |date=19 December 2024 |access-date=20 December 2024}}</ref> ||
+|-
+|{{flagicon|Timor-Leste}} [[Demographics of East Timor|Timor-Leste]]
+| {{n+p|1391221|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://timor-leste.unfpa.org/sites/default/files/pub-pdf/2015%20Population%20Projection%20Report_0.pdf |title=Analytical Report on Population Projection |website=timor-leste.unfpa.org |access-date=15 July 2025 |archive-url=https://web.archive.org/web/20200802031357/https://timor-leste.unfpa.org/sites/default/files/pub-pdf/2015%20Population%20Projection%20Report_0.pdf |archive-date=2 August 2020 |url-status=live}}</ref> ||
+|-
+|{{flagicon|Trinidad and Tobago}} [[Demographics of Trinidad and Tobago|Trinidad and Tobago]]
+| {{n+p|1367764|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://cso.gov.tt/subjects/population-and-vital-statistics/population/ |title=Population |website=cso.gov.tt |date= 15 August 2023|access-date=1 October 2025}}</ref> ||
+|-
+|{{flagicon|Estonia}} [[Demographics of Estonia|Estonia]]
+| {{n+p|1362954|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Official estimate<ref>{{cite web|title=Population figure|url=https://www.stat.ee/et |access-date=20 January 2026 }}</ref> ||
+|-
+|{{flagicon|Mauritius}} [[Demographics of Mauritius|Mauritius]]
+| {{n+p|1243741|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| National estimate<ref>{{cite web |url=https://statsmauritius.govmu.org/Pages/Statistics/By_Subject/Population/SB_Population.aspx|publisher=Statistics Mauritius |title=Population and Vital Statistics |date=29 August 2025 |website=statsmauritius.govmu.org |access-date=31 August 2025}}</ref> ||
+|-
+|{{flagicon|Eswatini}} [[Demographics of Eswatini|Eswatini]]
+| {{n+p|1235549|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| Official projection<ref>{{cite web |url = http://ccm.org.sz/documents/reports/hiv/Population-Projections-Report-2007-2030.pdf |title =Swaziland Population Projections 2007–2030 |at = p20 |date = 1 July 2015 |website = ccm.org.sz |access-date = 3 July 2024 |archive-url = https://web.archive.org/web/20150723224521/http://ccm.org.sz/documents/reports/hiv/Population-Projections-Report-2007-2030.pdf |archive-date = 23 July 2015 |url-status = dead}}</ref> ||
+|-
+|{{flagicon|Djibouti}} [[Demographics of Djibouti|Djibouti]]
+| {{n+p|1066809|{{worldpop}}|sigfig=1|disp=table}} || {{dts|20 May 2024|abbr=on}}
+| 2024 census result<ref>{{cite web |title=RGPH-3 (2024) |url=https://firebasestorage.googleapis.com/v0/b/instad-dj.appspot.com/o/RGPH%2F0%2FCommunication%20sur%20les%20resultats%20provisoires.pdf?alt=media&token=d0d87288-b07d-4369-9892-14ee23b93f5a |publisher=Institut National de la Statistique de Djibouti (INSD) |website=www.instad.dj |access-date=3 December 2024}}</ref>||
+|-
+|{{flagicon|Cyprus}} [[Demographics of Cyprus|Cyprus]]
+| {{n+p|983000|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url = https://www.cystat.gov.cy/en/PressRelease?id=73731 |title = Demographic Statistics 2024 |date = 19 December 2025 |website = cystat.gov.cy |access-date = 7 February 2026 }}</ref> || {{efn|Excludes [[Northern Cyprus]].}}
+|-
+|{{flagicon|Guyana}} [[Demographics of Guyana|Guyana]]
+| {{n+p|956044|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://statisticsguyana.gov.gy/wp-content/uploads/2019/10/Preliminary-Report-Guyana-National-Population-and-Housing-Census-2022.pdf |title=Guyana National Population & Housing Census 2022 |website=www.statisticsguyana.gov.gy |access-date=7 February 2026 |archive-url=https://web.archive.org/web/20260127214954/https://statisticsguyana.gov.gy/wp-content/uploads/2019/10/Preliminary-Report-Guyana-National-Population-and-Housing-Census-2022.pdf |archive-date=27 January 2026 |url-status=live }}</ref> ||
+|-
+|{{flagicon|Comoros}} [[Demographics of the Comoros|Comoros]]
+| {{n+p|919901|{{worldpop}}|sigfig=1|disp=table}} || {{dts|2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.inseed-comores.org/ |title=Population |website=www.inseed-comores.org |access-date=20 October 2025 |archive-date=20 October 2025 |archive-url=https://web.archive.org/web/20251020183921/https://www.inseed-comores.org/ |url-status=live}}</ref> ||
+|-
+|{{flagicon|Fiji}} [[Demographics of Fiji|Fiji]]
+| {{n+p|902623|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.statsfiji.gov.fj/ |title=BULA and Welcome |website=www.statsfiji.gov.fj |access-date=27 April 2023 |archive-date=8 April 2020 |archive-url=https://web.archive.org/web/20200408072353/https://www.statsfiji.gov.fj/ |url-status=live }}</ref> ||
+|-
+|{{flagicon|Bhutan}} [[Demographics of Bhutan|Bhutan]]
+| {{n+p|784043|{{worldpop}}|sigfig=1|disp=table}} || {{dts|2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=http://www.nsb.gov.bt/publication/files/pub2wc8278bd.pdf |title=Population Projections Bhutan 2017–2047 |website=www.nsb.gov.bt |access-date=15 July 2025 |archive-url=https://web.archive.org/web/20190128191433/http://www.nsb.gov.bt/publication/files/pub2wc8278bd.pdf |archive-date=28 January 2019 |url-status=live }}</ref> ||
+|-
+|{{flagicon|Solomon Islands}} [[Demographics of the Solomon Islands|Solomon Islands]]
+| {{n+p|750325|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url = https://www.statistics.gov.sb/statistics/social-statistics/population |title = Population |website = www.statistics.gov.sb |access-date = 3 July 2024 |archive-date = 30 June 2022 |archive-url = https://web.archive.org/web/20220630191359/https://statistics.gov.sb/statistics/social-statistics/population |url-status = live }}</ref> ||
+|- class=static-row-numbers-norank
+| |{{flagicon|Macau}} [[Demographics of Macau|Macau]] (China)
+| {{n+p|686600|{{worldpop}}|sigfig=1|disp=table}}
+|| {{dts|30 September 2025|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url=https://www.dsec.gov.mo/ts/#!/step2/KeyIndicator/en-US/240 |title=DSEC – 統計數據庫 |website=www.dsec.gov.mo |access-date=10 November 2025}}</ref> ||
+|-
+|{{flagicon|Luxembourg}} [[Demographics of Luxembourg|Luxembourg]]
+| {{n+p|681973|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{Cite web |url=https://statistiques.public.lu/dam-assets/actualite/2025/stn16-pop-25/stn16-2025-population-2025.pdf |title=En 2024, une croissance démographique ralentie par une faible fécondité et un recul de l'immigration |date=13 May 2025 |website=statistiques.public.lu |language=fr |access-date=13 May 2025}}</ref> ||
+|-
+|{{flagicon|Montenegro}} [[Demographics of Montenegro|Montenegro]]
+| {{n+p|623327|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web|url=https://www.monstat.org/uploads/files/demografija/osnovni%20demografski%20pokazatelji/2024/Procjene%20broja%20stanovnika%20na%201.%20januar_podaci.xlsx
+| title=Procjene broja stanovnika na 1. januar|website=MONSTAT}}</ref> ||
+|-
+|{{flagicon|Suriname}} [[Demographics of Suriname|Suriname]]
+| {{n+p|616500|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2021|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://statistics-suriname.org/en/population-statistics-2/ |title=Population Statistics |date=15 August 2019|publisher=Statistics-Suriname.org |access-date=20 April 2023 |archive-url=https://web.archive.org/web/20200328181226/https://statistics-suriname.org/en/population-statistics-2/ |archive-date=28 March 2020 |url-status=live}}</ref> ||
+|- class=static-row-numbers-norank
+| {{flagicon image|Flag of the Sahrawi Arab Democratic Republic.svg}} [[Western Sahara]] [[Western Sahara conflict|(disputed)]]
+| {{n+p|600904|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| UN projection<ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=2 August 2024 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref> ||
+|-
+|{{flagicon|Malta}} [[Demographics of Malta|Malta]]
+| {{n+p|574250|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url = https://nso.gov.mt/world-population-day-11-july-2024/ |title = World Population Day: 11 July 2024 |date = 10 July 2024 |website = nso.gov.mt |access-date = 12 February 2025 |archive-date = 6 November 2024 |archive-url = https://web.archive.org/web/20241106141710/https://nso.gov.mt/world-population-day-11-july-2024/ |url-status = dead }}</ref> ||
+|-
+|{{flagicon|Maldives}} [[Demographics of the Maldives|Maldives]]
+| {{n+p|515132|{{worldpop}}|sigfig=1|disp=table}} || {{dts|13 September 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url = https://census.gov.mv/2022/wp-content/uploads/2023/07/WPD2023.pdf |title = Census 2022: Combined Summary |date = 11 July 2022 |website = census.gov.mv |access-date = 14 March 2024}}</ref> ||
+|-
+|{{flagicon|Cape Verde}} [[Demographics of Cape Verde|Cape Verde]]
+| {{n+p|491233|{{worldpop}}|sigfig=1|disp=table}} || {{dts|16 June 2021|abbr=on}}
+| 2021 census result<ref>{{cite web |url=https://ine.cv/ine_censos_quadros_category/censo-2021/ |title=CENSO 2021 |publisher=ine.cv |access-date=23 September 2023 |archive-date=27 March 2023 |archive-url=https://web.archive.org/web/20230327051422/https://ine.cv/ine_censos_quadros_category/censo-2021/ |url-status=live }}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Northern Cyprus}} [[Northern Cyprus|Northern Cyprus]]
+| {{n+p|476214|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2023|abbr=on}}
+| Official projection<ref>{{cite web |url = https://stat.gov.ct.tr/HABERLER/n252fus-projeksiyonlar%c4%b1-2019-2023 |title = Population Projections 2019–2023 |date = 11 November 2024 |website = stat.gov.ct.tr |access-date = 12 November 2024}}</ref> || {{efn|''De facto'' independent, ''de jure'' part of [[Cyprus]].}}
+|-
+|{{flagicon|Brunei}} [[Demographics of Brunei|Brunei]]
+| {{n+p|455500|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://deps.mofe.gov.bn/SitePages/National%20Statistics.aspx |title=National Statistics |website=www.deps.mofe.gov.bn |access-date=30 March 2025|archive-url=https://web.archive.org/web/20220404181806/https://deps.mofe.gov.bn/SitePages/National%20Statistics.aspx|archive-date=2022-04-04}}</ref>||
+|-
+|{{flagicon|Belize}} [[Demographics of Belize|Belize]]
+| {{n+p|417634|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2025|abbr=on}}
+| Official estimate<ref>{{cite web |title=Population (July 2025) |website=Statistical Institute of Belize|date= |url=https://sib.org.bz/ |access-date=2 August 2025}}</ref> ||
+|-
+|{{flagicon|Bahamas}} [[Demographics of the Bahamas|Bahamas]]
+| {{n+p|398165|{{worldpop}}|sigfig=1|disp=table}} || {{dts|4 April 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://www.bahamas.gov.bs/wps/wcm/connect/433f799e-c62e-4226-90b8-720840352337/Handout+2022+CENSUS+25+October+2024.pdf?MOD=AJPERES |title=Census of Population and Housing 2022 – Official Census Results and Data Highlights |access-date=12 November 2024}}</ref> ||
+|-
+|{{flagicon|Iceland}} [[Demographics of Iceland|Iceland]]
+| {{n+p|394530|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| National quarterly estimate<ref>{{cite web |date=10 February 2026 |title=The population grew by 1,370 in the fourth quarter of 2025 |url=https://www.statice.is/publications/news-archive/inhabitants/population-in-the-end-of-fourth-quarter-of-2025/ |access-date=10 February 2026 |website=www.statice.is |publisher=Statistics Iceland (Hagstofa Íslands)}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Transnistria}} [[Transnistria|Transnistria]]
+| {{n+p|367776|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 March 2024|abbr=on}}
+| Official estimate<ref>{{cite web |title=Peste 358 mii de locuitori din regiunea transnistreană sunt cetățeni ai Republicii Moldova |url=https://old.gov.md/ro/content/peste-358-mii-de-locuitori-din-regiunea-transnistreana-sunt-cetateni-ai-republicii-moldova |publisher=Government of Moldova |access-date=25 October 2025 |language=ro |date=17 April 2025}}</ref> || {{efn|''De facto'' independent, ''de jure'' part of [[Moldova]].}}
+|-
+|{{flagicon|Vanuatu}} [[Demographics of Vanuatu|Vanuatu]]
+| {{n+p|321409|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| National annual projection<ref name = "pacificdata">{{cite web |url = https://stats.pacificdata.org/ |title = Pacific Data Hub Explorer |website = stats.pacificdata.org |access-date = 4 August 2024 |archive-date = 21 July 2023 |archive-url = https://web.archive.org/web/20230721002349/https://stats.pacificdata.org/ |url-status = live }}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|French Polynesia}} [[Demographics of French Polynesia|French Polynesia]] (France)
+| {{n+p|279500|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.ispf.pf/ |title=Population |website=www.ispf.pf/ |access-date=15 July 2025}}</ref> ||
+|-
+|{{flagicon|Barbados}} [[Demographics of Barbados|Barbados]]
+| {{n+p|267800|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2022|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://stats.gov.bb/subjects/social-demographic-statistics/population-demography-statistics/vital-statistics-indicators-2022/ |title=Vital Statistic Indicators |access-date=15 June 2023 |archive-date=11 June 2023 |archive-url=https://web.archive.org/web/20230611031804/https://stats.gov.bb/subjects/social-demographic-statistics/population-demography-statistics/vital-statistics-indicators-2022/ |url-status=live}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|New Caledonia}} [[Demographics of New Caledonia|New Caledonia]] (France)
+| {{n+p|264596|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.isee.nc/population/demographie |title=Bilan démographique 2022 : la Nouvelle-Calédonie perd 1 300 habitants |website=www.isee.nc/ |access-date=30 September 2023 |archive-date=13 November 2022 |archive-url=https://web.archive.org/web/20221113162110/https://www.isee.nc/population/demographie |url-status=live}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Abkhazia}} [[Abkhazia|Abkhazia]]
+| {{n+p|244236|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2022|abbr=on}}
+| Official estimate<ref>{{cite web |url = https://ugsra.org/ofitsialnaya-statistika.php?ELEMENT_ID=600 |title = Управление государственной статистики Республики Абхазия |website = ugsra.org |access-date = 27 October 2023 |archive-date = 29 March 2023 |archive-url = https://web.archive.org/web/20230329170012/https://ugsra.org/ofitsialnaya-statistika.php?ELEMENT_ID=600 |url-status = live }}</ref> || {{efn|{{Abkhazia note}}}}
+|-
+|{{flagicon|São Tomé and Príncipe}} [[Demographics of São Tomé and Príncipe|São Tomé and Príncipe]]
+| {{n+p|209607|{{worldpop}}|sigfig=1|disp=table}} || {{dts|2024|abbr=on}}
+| Preliminary census result<ref>{{cite web |url=https://www.ine.st/ |title=Instituto Nacional de Estatística |website=ine.st |access-date=15 July 2025 }}</ref> ||
+|-
+|{{flagicon|Samoa}} [[Demographics of Samoa|Samoa]]
+| {{n+p|205557|{{worldpop}}|sigfig=1|disp=table}} || {{dts|6 November 2021|abbr=on}}
+| 2021 Census<ref>{{cite web |url=https://www.sbs.gov.ws/ |title=POPULATION & HOUSING CENSUS 2016 – 2021 |website=www.sbs.gov.ws |access-date=27 April 2023 |archive-date=22 March 2020 |archive-url=https://web.archive.org/web/20200322144201/https://www.sbs.gov.ws/ |url-status=live}}</ref> ||
+|-
+|{{flagicon|Saint Lucia}} [[Demographics of Saint Lucia|Saint Lucia]]
+| {{n+p|184100|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2023|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.stats.gov.lc/ |title=Home |website=The Central Statistical Office of Saint Lucia |access-date=23 June 2024 }}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Curaçao}} [[Demographics of Curaçao|Curaçao]] (Netherlands)
+| {{n+p|156115|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.cbs.cw/population |title=Population |date= 12 March 2020|access-date=5 September 2025}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Guam}} [[Demographics of Guam|Guam]] (US)
+| {{n+p|153836|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 April 2020|abbr=on}}
+| 2020 census result<ref>{{cite web |url=https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/guam/population-and-housing-unit-counts/guam-phc-table01.pdf |title=Population of Guam: 2010 and 2020 |website=www2.census.gov |access-date=29 January 2022 |archive-date=3 November 2021 |archive-url=https://web.archive.org/web/20211103005501/https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/guam/population-and-housing-unit-counts/guam-phc-table01.pdf |url-status=live}}</ref> ||
+|-
+|{{flagicon|Seychelles}} [[Demographics of Seychelles|Seychelles]]
+| {{n+p|122729|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.nbs.gov.sc/downloads/1806-mid-2025-estimated-resident-population/download |title = MID 2025 Estimated Resident Population |website=www.nbs.gov.sc |access-date=31 August 2025}}</ref> ||
+|-
+|{{flagicon|Kiribati}} [[Demographics of Kiribati|Kiribati]]
+| {{n+p|120740|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2021|abbr=on}}
+| National annual projection<ref name="pacificdata" /> ||
+|-
+|{{flagicon|Saint Vincent and the Grenadines}} [[Demographics of Saint Vincent and the Grenadines|Saint Vincent and the Grenadines]]
+| {{n+p|110872|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2022|abbr=on}}
+| Official estimate<ref>{{cite web |title=Mid Year Total Population Estimates by Age and Sex, 2018 to 2022 |url=https://stats.gov.vc/subjects/population-and-demography/mid-year-total-population-estimates-by-age-and-sex/ |archive-url=https://web.archive.org/web/20230422031423/https://stats.gov.vc/subjects/population-and-demography/mid-year-total-population-estimates-by-age-and-sex/ |archive-date=22 April 2023 |access-date=25 June 2023 |website=stats.gov.vc |publisher=Statistical Office, Government of Saint Vincent and the Grenadines |language=en-US}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Aruba}} [[Demographics of Aruba|Aruba]] (Netherlands)
+| {{n+p|109435|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://cbs.aw/wp/index.php/2022/10/02/population-count-for-aruba/ |title=Population: 2nd QTR 2025 |website=cbs.aw |date= |publisher=Central Bureau of Statistics Aruba |access-date=6 January 2026 }}</ref>||
+|-
+|{{flagicon|Grenada}} [[Demographics of Grenada|Grenada]]
+| {{n+p|109021|{{worldpop}}|sigfig=1|disp=table}} || {{dts|2021|abbr=on}}
+| Preliminary Census results<ref>{{cite web |url=https://stats.gov.gd/wp-content/uploads/2025/04/2021-National-Housing-Population-Census-Results-Latest-PRELIMINARY.pdf |title=2021 Grenada, Carriacou and Petite Martinque National Housing and Population Census Resutls |publisher=Central Statistical Office |access-date=12 September 2025}}</ref> ||
+|-
+|{{flagicon|Micronesia}} [[Demographics of the Federated States of Micronesia|Micronesia]]
+| {{n+p|105564|{{worldpop}}|sigfig=1|disp=table}} || {{dts|2025|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://stats.gov.fm/wp-content/uploads/2023/12/Population-Projections-2020-2025.xlsx |title=Population Projections 2020-2025 |date= |publisher=FSM Statistics |access-date=5 August 2025 }}</ref>||
+|-
+|{{flagicon|Antigua and Barbuda}} [[Demographics of Antigua and Barbuda|Antigua and Barbuda]]
+| {{n+p|103603|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2024|abbr=on}}
+| Official estimate<ref>{{cite web |title=National Annual estimate – Antigua and Barbuda; 2022 |url=https://statistics.gov.ag/ |url-status=live |archive-url=https://web.archive.org/web/20210111065316/https://statistics.gov.ag/wp-content/uploads/2017/12/Population-Projections-by-Age-Group-Annual-1991-2026.xlsx |archive-date=11 January 2021 |access-date=2 July 2024 |website=statistics.gov.ag}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Jersey}} [[Demographics of Jersey|Jersey]] (UK)
+| {{n+p|103267|{{worldpop}}|sigfig=1|disp=table}} || {{dts|21 March 2021|abbr=on}}
+| 2021 census result<ref>{{cite web |url=https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20CensusBulletin1%2020220413%20SJ.pdf |title=Bulletin 1: Population characteristics|first=States of|last=Jersey |website=gov.je |access-date=23 September 2023 |archive-date=13 April 2022 |archive-url=https://web.archive.org/web/20220413165711/https://www.gov.je/SiteCollectionDocuments/Government%20and%20administration/R%20CensusBulletin1%2020220413%20SJ.pdf |url-status=live}}</ref> ||
+|-
+|{{flagicon|Tonga}} [[Demographics of Tonga|Tonga]]
+| {{n+p|100179|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 November 2021|abbr=on}}
+| 2021 census result<ref>{{cite web |url=https://tongastats.gov.to/ |title=Tonga Statistics Department &#124; The official statistics provider for Tonga |access-date=16 November 2022 |archive-date=25 September 2021 |archive-url=https://web.archive.org/web/20210925121044/https://tongastats.gov.to/ |url-status=live}}</ref>||
+|-
+|{{flagicon|Andorra}} [[Demographics of Andorra|Andorra]]
+| {{n+p|89058|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://www.estadistica.ad/portal/apps/sites/#/estadistica-en/pages/estadistiques-i-dades-detall?Idioma=en&N2=605&N3=606&DV=1143 |title=Departament d'Estadística |website=www.estadistica.ad |access-date=28 November 2025}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Cayman Islands}} [[Demographics of the Cayman Islands|Cayman Islands]] (UK)
+| {{n+p|88833|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| National annual projection<ref>{{cite web |title=Population and Demographics 2024 |url=https://www.eso.ky/populationandvitalstatistics.html |access-date=15 January 2026 |website=www.eso.ky}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|U.S. Virgin Islands}} [[Demographics of the United States Virgin Islands|U.S. Virgin Islands]] (US)
+| {{n+p|87146|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 April 2020|abbr=on}}
+| 2020 census result<ref>{{cite web |url=https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/us-virgin-islands/population-and-housing-unit-counts/us-virgin-islands-phc-table01.pdf |title=Population of the United States Virgin Islands: 2010 and 2020 |website=www2.census.gov |access-date=29 January 2022 |archive-date=14 March 2023 |archive-url=https://web.archive.org/web/20230314154015/https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/us-virgin-islands/population-and-housing-unit-counts/us-virgin-islands-phc-table01.pdf |url-status=live}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Isle of Man}} [[Demographics of the Isle of Man|Isle of Man]] (UK)
+| {{n+p|84975|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 April 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.gov.im/media/1380987/isle-of-man-population-report-2023-updated-061123.pdf |title=Isle of Man Population Report 2023 |website=www.gov.im |access-date=29 November 2024 }}</ref> ||
+|-
+|{{flagicon|Dominica}} [[Demographics of Dominica|Dominica]]
+| {{n+p|71946|{{worldpop}}|sigfig=1|disp=table}} || {{dts|2018|abbr=on}}
+| UN estimate<ref>{{cite web |title=Fast Facts |url=https://www.cbiu.gov.dm/dominica/facts/ |publisher=Dominica Citizenship by Investment Unit |access-date=3 February 2026}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Guernsey}} [[Demographics of Guernsey|Guernsey]] (UK)
+| {{n+p|64781|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2023|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url=https://www.gov.gg/population |title=Population, Employment and Earnings |website=www.gov.gg |date=29 October 2024 |access-date=9 December 2024 }}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Bermuda}} [[Demographics of Bermuda|Bermuda]] (UK)
+| {{n+p|64055|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2021|abbr=on}}
+| National annual projection<ref>{{cite web |url=https://www.gov.bm/sites/default/files/Bermuda-Population-Projections-2016-2026.pdf |title=Bermuda Population Projections 2016–2026 |website=www.gov.bm |access-date=11 March 2019 |archive-url=https://web.archive.org/web/20190412033845/https://www.gov.bm/sites/default/files/Bermuda-Population-Projections-2016-2026.pdf |archive-date=12 April 2019 |url-status=live}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Greenland}} [[Demographics of Greenland|Greenland]] (Denmark)
+| {{n+p|56740|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| National quarterly estimate<ref>{{cite web |url=https://stat.gl/publ/en/BE/202504/contents/Midyear%20Population.htm |title=Population increased by 96 in second quarter of 2025 |date= |publisher=Statistics Greenland |website=bank.stat.gl |access-date=19 December 2025}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|South Ossetia}} [[South Ossetia|South Ossetia]]
+| {{n+p|56520|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2021|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://ugosstat.ru/statisticheskij-sbornik-za-yanvar-dekabr-2021-g/ |title=В Цхинвале прошла пресс-конференция начальника Управления государственной статистики Южной Осетии Инала Тибилова |date=29 March 2022 |website=ugosstat.ru |access-date=11 February 2023 |archive-date=28 January 2023 |archive-url=https://web.archive.org/web/20230128005918/https://ugosstat.ru/statisticheskij-sbornik-za-yanvar-dekabr-2021-g/ |url-status=live}}</ref> || {{efn|{{South Ossetia-note}}}}
+|- class=static-row-numbers-norank
+|{{flagicon|Faroe Islands}} [[Demographics of the Faroe Islands|Faroe Islands]] (Denmark)
+| {{n+p|54981|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2026|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://hagstova.fo/en/population/population/population |title=POPULATION |date=10 February 2026 |website=[[Statistics Faroe Islands]] |access-date=10 February 2026}}</ref> ||
+|-
+|{{flagicon|Saint Kitts and Nevis}} [[Demographics of Saint Kitts and Nevis|Saint Kitts and Nevis]]
+| {{n+p|51320|{{worldpop}}|sigfig=1|disp=table}} || {{dts| 2022|abbr=on}}
+| 2022 census result<ref>{{cite web |url=https://nia.gov.kn/wp-content/uploads/2024/06/Census-Report-2021-2022.docx |title=
+THE POPULATION AND HOUSING CENSUS SUMMARY |access-date=16 July 2024 }}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Turks and Caicos Islands}} [[Demographics of the Turks and Caicos Islands|Turks and Caicos Islands]] (UK)
+| {{n+p|50828|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=https://www.gov.tc/stats/ |title=2024 INDICATORS |website=www.gov.tc |access-date=10 October 2025 |archive-url=https://web.archive.org/web/20220124144944/https://www.gov.tc/stats/|archive-date=2022-01-24}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|American Samoa}} [[Demographics of American Samoa|American Samoa]] (US)
+| {{n+p|49710|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 April 2020|abbr=on}}
+| 2020 census result<ref>{{cite web |url=https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/american-samoa/population-and-housing-unit-counts/american-samoa-phc-table01.pdf |title=Population of American Samoa: 2010 and 2020 |website=www2.census.gov |access-date=29 January 2022 |archive-date=6 February 2022 |archive-url=https://web.archive.org/web/20220206171554/https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/american-samoa/population-and-housing-unit-counts/american-samoa-phc-table01.pdf |url-status=live}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Northern Mariana Islands}} [[Demographics of the Northern Mariana Islands|Northern Mariana Islands]] (US)
+| {{n+p|47329|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 April 2020|abbr=on}}
+| 2020 census result<ref>{{cite web |url=https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/commonwealth-of-the-northern-mariana-islands/population-and-housing-unit-counts/commonwealth-northern-mariana-islands-phc-table01.pdf |title=Population of Commonwealth of the Northern Mariana Islands: 2010 and 2020 |website=www2.census.gov |access-date=29 January 2022 |archive-date=25 January 2022 |archive-url=https://web.archive.org/web/20220125125558/https://www2.census.gov/programs-surveys/decennial/2020/data/island-areas/commonwealth-of-the-northern-mariana-islands/population-and-housing-unit-counts/commonwealth-northern-mariana-islands-phc-table01.pdf |url-status=live}}</ref> ||
+|-
+|{{flagicon|Marshall Islands}} [[Demographics of the Marshall Islands|Marshall Islands]]
+| {{n+p|42418|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 September 2021|abbr=on}}
+| 2021 Census<ref name=autogenerated1>{{cite web |url=https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/60/605c69d76a40195baa447b5a558b0e02.pdf?sv=2015-12-11&sr=b&sig=GbQ42ZYNKrH3g389jZn7DvHUO8ObwYrFpnxIeXiRSU0%3D&se=2024-03-25T18%3A07%3A37Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22Marshall_Islands_2021_Census_Vol1_Table_report.pdf%22 |title=Republic of the Marshall Islands 2021 Census Report, Volume 1: Basic Tables and Administrative Report |date=30 May 2023 |website=Pacific Community (SPC): Statistics for Development Division |publisher=[[Pacific Community]] |access-date=27 September 2023 |archive-date=27 September 2023 |archive-url=https://web.archive.org/web/20230927183142/https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/60/605c69d76a40195baa447b5a558b0e02.pdf?sv=2015-12-11&sr=b&sig=GbQ42ZYNKrH3g389jZn7DvHUO8ObwYrFpnxIeXiRSU0%3D&se=2024-03-25T18:07:37Z&sp=r&rscc=public,%20max-age%3D864000,%20max-stale%3D86400&rsct=application/pdf&rscd=inline%3B%20filename%3D%22Marshall_Islands_2021_Census_Vol1_Table_report.pdf%22 |url-status=live }}</ref>||
+|- class=static-row-numbers-norank
+| |{{flagicon|Sint Maarten}} [[Sint Maarten|Sint Maarten]] (Netherlands)
+| {{n+p|41349|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref>{{cite web |url=http://stats.sintmaartengov.org/press_releases.php?cat=VTL |title=Rebased Population Estimates and Vital Statistics for January 1, 2024 |website=stat.gov.sx |access-date=22 August 2024 }}</ref> ||
+|-
+|{{flagicon|Liechtenstein}} [[Demographics of Liechtenstein|Liechtenstein]]
+| {{n+p|41024|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2024|abbr=on}}
+| National estimate<ref>{{cite web |url=https://www.statistikportal.li/de/themen/bevoelkerung?pk_vid=460631cefa86765416944325458ce980 |title=Bevölkerungsstand |website=statistikportal.li |access-date=10 November 2025 }}</ref>||
+|- class=static-row-numbers-norank
+| |{{flagicon|British Virgin Islands}} [[Demographics of the British Virgin Islands|British Virgin Islands]] (UK)
+| {{n+p|39471|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2024|abbr=on}}
+| UN projection<ref>{{Cite web |title=World Population Prospects 2024 |url=https://population.un.org/wpp/ |access-date=24 March 2025 |website=population.un.org |publisher=[[United Nations Department of Economic and Social Affairs]]}}</ref> ||
+|-
+|{{flagicon|Monaco}} [[Demographics of Monaco|Monaco]]
+| {{n+p|38423|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Census<ref>{{cite web |url=https://www.monacostatistics.mc/Population-and-employment |title=Population and employment / IMSEE – Monaco IMSEE |website=www.monacostatistics.mc |access-date=27 December 2018 |archive-url=https://web.archive.org/web/20181227230517/https://www.monacostatistics.mc/Population-and-employment |archive-date=27 December 2018 |url-status=live}}</ref> ||
+|- class=static-row-numbers-norank
+| |{{flagicon|Gibraltar}} [[Demographics of Gibraltar|Gibraltar]] (UK)
+| {{n+p|38196|{{worldpop}}|sigfig=1|disp=table}} || {{dts|14 November 2022|abbr=on}}
+| Preliminary census results<ref>{{cite web |url = https://www.gibraltar.gov.gi/uploads/statistics/2019/Reports/Abstract%20of%20Statistics%202016%20whole%20report.pdf |title = Abstract of Statistics 2016 |website = gibraltar.gov.gi |access-date = 1 July 2023 |archive-date = 2 July 2023 |archive-url = https://web.archive.org/web/20230702070247/https://www.gibraltar.gov.gi/uploads/statistics/2019/Reports/Abstract%20of%20Statistics%202016%20whole%20report.pdf |url-status = live }}</ref> ||
+|-
+|{{flagicon|San Marino}} [[Demographics of San Marino|San Marino]]
+| {{n+p|34172|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2025|abbr=on}}
+| Monthly national estimate<ref>{{cite web |url=https://www.statistica.sm/pub1/StatisticaSM/en/Dati-statistici/Popolazione/Struttura-Demografica.html |title=Demographic structure |access-date=7 February 2026 }}</ref> ||
+|- class=static-row-numbers-norank
+| {{Flagicon image|Local flag of the Collectivity of Saint Martin.svg}} [[Collectivity of Saint Martin|Saint Martin]] (France)
+| {{n+p|31496|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref name="auto">{{cite web |url=https://www.insee.fr/fr/statistiques/8290617?sommaire=8290669 |title=Populations de référence 2022 |website=www.insee.fr |access-date=24 March 2025 |archive-date=14 February 2025 |archive-url=https://web.archive.org/web/20250214111240/https://www.insee.fr/fr/statistiques/8290617?sommaire=8290669 |url-status=live}}</ref> ||
+|-
+|{{flagicon|Palau}} [[Demographics of Palau|Palau]]
+| {{n+p|16733|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2021|abbr=on}}
+| 2021 Census<ref>{{cite web |url=https://www.palaugov.pw/executive-branch/ministries/finance/budgetandplanning/health-statistics/ |title=Health Statistics – PalauGov.pw |access-date=16 November 2022 |archive-date=9 June 2023 |archive-url=https://web.archive.org/web/20230609150157/https://www.palaugov.pw/executive-branch/ministries/finance/budgetandplanning/health-statistics/ |url-status=live}} </ref> ||
+|- class=static-row-numbers-norank
+| |{{flagicon|Anguilla}} [[Demographics of Anguilla|Anguilla]] (UK)
+| {{n+p|16010|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official estimate<ref>{{cite web |url=http://statistics.gov.ai/ |title=Population |website=statistics.gov.ai |access-date=2 August 2025}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Cook Islands}} [[Demographics of the Cook Islands|Cook Islands]] (New Zealand)
+| {{n+p|15040|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2021|abbr=on}}
+| 2021 Census<ref>{{cite web |url=https://www.mfem.gov.ck/statistics/census-and-surveys/census/267-census-2021 |title=Census 2021 – Cook Islands – Ministry of Finance and Economic Management |website=www.mfem.gov.ck |access-date=16 November 2022 |archive-date=30 June 2023 |archive-url=https://web.archive.org/web/20230630084401/https://www.mfem.gov.ck/statistics/census-and-surveys/census/267-census-2021 |url-status=dead}}</ref>||
+|-
+|{{flagicon|Nauru}} [[Demographics of Nauru|Nauru]]
+| {{n+p|11680|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 October 2021|abbr=on}}
+| 2021 Census<ref>{{cite web |title=NAURU 2021 POPULATION AND HOUSING CENSUS – ANALYTICAL REPORT |url=https://sdd.spc.int/news/2023/08/23/nauru-2021-population-and-housing-census-analytical-report |access-date=6 December 2023}}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Wallis and Futuna}} [[Demographics of Wallis and Futuna|Wallis and Futuna]] (France)
+| {{n+p|11620|{{worldpop}}|sigfig=1|disp=table}} || {{dts|24 July 2023|abbr=on}}
+| 2023 Census<ref>{{cite web |title=Résultats du recensement de la population 2023 de Wallis-et-Futuna |url=https://www.wallis-et-futuna.gouv.fr/Actualites/Les-chiffres-INSEE-du-recensement-2023-authentifies-sont-parus |access-date=16 July 2024}}</ref> ||
+|-
+|{{flagicon|Tuvalu}} [[Demographics of Tuvalu|Tuvalu]]
+| {{n+p|10643|{{worldpop}}|sigfig=1|disp=table}} || {{dts|12 December 2022|abbr=on}}
+| 2022 Census<ref name=":1">{{Cite book |url=https://spccfpstore1.blob.core.windows.net/digitallibrary-docs/files/f6/f63bae1b56af7cbcc4b51f8568ce4985.pdf?sv=2015-12-11&sr=b&sig=RRqqoeJ0R%2FrDqckPotySlFcUX1UYLrD%2FbrTMfyGNh40%3D&se=2025-10-03T10%3A38%3A37Z&sp=r&rscc=public%2C%20max-age%3D864000%2C%20max-stale%3D86400&rsct=application%2Fpdf&rscd=inline%3B%20filename%3D%22Tuvalu_2022_Census_Report.pdf%22 |title=Tuvalu 2022 census on population and housing: analytical report |date=March 2025 |publisher=Pacific Community |isbn=978-982-00-1617-0 |location=Noumea Cedex, New Caledonia |language=en}}</ref> ||
+|- class=static-row-numbers-norank
+| {{flag|Saint Barthélemy|variant=local}} (France)
+| {{n+p|10562|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref name="auto"/> ||
+|- class=static-row-numbers-norank
+| |{{flagicon|Saint Pierre and Miquelon}} [[Demographics of Saint Pierre and Miquelon|Saint Pierre and Miquelon]] (France)
+| {{n+p|5819|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| Official estimate<ref name="auto"/> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Saint Helena, Ascension and Tristan da Cunha}} [[Saint Helena, Ascension and Tristan da Cunha|Saint Helena, Ascension and Tristan da Cunha]] (UK)
+| {{n+p|5651|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2021|abbr=on}}
+| 2021 Census<ref>{{cite web |title=Saint Helena 2021 Population |url=https://www.tristandc.com/population.php |archive-url=https://web.archive.org/web/20211121070744/https://www.tristandc.com/population.php |archive-date=21 November 2021 }}</ref><ref>{{cite web |url=https://www.sainthelena.gov.sh/st-helena/statistics/ |title=Statistics |access-date=16 November 2022 |archive-date=26 July 2022 |archive-url=https://web.archive.org/web/20220726162858/https://www.sainthelena.gov.sh/st-helena/statistics/ |url-status=live}}</ref><ref>{{cite web |title=Ascension 2021 population |url=https://www.sainthelena.gov.sh/statistics |archive-url=https://web.archive.org/web/20191029005019/http://www.sainthelena.gov.sh/statistics/ |access-date=16 November 2022 |archive-date=29 October 2019 |url-status=live }}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Montserrat}} [[Demographics of Montserrat|Montserrat]] (UK)
+| {{n+p|4386|{{worldpop}}|sigfig=1|disp=table}} || {{dts|23 September 2023|abbr=on}}
+| 2023 census result<ref>{{cite web |url=https://www.gov.ms/2024/04/19/key-findings-of-the-2023-population-and-housing-census/ |title=KEY FINDINGS OF THE 2023 POPULATION AND HOUSING CENSUS |access-date=16 July 2024 }}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Falkland Islands}} [[Demographics of the Falkland Islands|Falkland Islands]] (UK)
+| {{n+p|3662|{{worldpop}}|sigfig=1|disp=table}} || {{dts|10 October 2021|abbr=on}}
+| 2021 census result<ref>{{cite web |url = https://www.falklands.gov.fk/policy/2021-census/census |title = 2021 Census – Preliminary Data Tables |date = 25 October 2022 |website = falklands.gov.fk |access-date = 1 July 2023 |archive-date = 11 June 2023 |archive-url = https://web.archive.org/web/20230611234237/https://www.falklands.gov.fk/policy/2021-census/census |url-status = live }}</ref> ||
+|- class=static-row-numbers-norank
+|{{flagicon|Tokelau}} [[Demographics of Tokelau|Tokelau]] (New Zealand)
+| {{n+p|2,608|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2025|abbr=on}}
+| 2025 Census<ref>{{cite web |url=https://www.tokelau.org.nz/Stats.html |title=Statistics |website=www.tokelau.org.nz |access-date=16 November 2022 |archive-date=30 August 2019 |archive-url=https://web.archive.org/web/20190830214712/https://www.tokelau.org.nz/Stats.html |url-status=live}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Norfolk Island}} [[Demographics of Norfolk Island|Norfolk Island]] (Australia)
+| {{n+p|2188|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2021|abbr=on}}
+| 2021 Census<ref>{{cite web |url=https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL90004 |title=2021 Norfolk Island, Census All persons QuickStats &#124; Australian Bureau of Statistics |website=www.abs.gov.au |access-date=16 November 2022 |archive-date=1 November 2022 |archive-url=https://web.archive.org/web/20221101225958/https://www.abs.gov.au/census/find-census-data/quickstats/2021/SAL90004 |url-status=live}}</ref>||
+|- class=static-row-numbers-norank
+|- class=static-row-numbers-norank
+|{{flagicon|Christmas Island}} [[Demographics of Christmas Island|Christmas Island]] (Australia)
+| {{n+p|1692|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 January 2021|abbr=on}}
+| 2021 Census<ref>{{cite web |url=https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51710 |title=2021 Christmas Island, Census All persons QuickStats &#124; Australian Bureau of Statistics |website=www.abs.gov.au |access-date=16 November 2022 |archive-date=24 December 2022 |archive-url=https://web.archive.org/web/20221224054405/https://abs.gov.au/census/find-census-data/quickstats/2021/LGA51710 |url-status=live}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Niue}} [[Demographics of Niue|Niue]] (New Zealand)
+| {{n+p|1681|{{worldpop}}|sigfig=1|disp=table}} || {{dts|11 November 2022|abbr=on}}
+| 2022 Census<ref>{{cite web |url=https://niuestatistics.nu/population/niue-census-of-population-and-housing-2022 |title=Niue Census of Population and Housing, 2022 Niue Statistics Office |date=30 August 2023 |website=niuestatistics.nu |access-date=6 December 2023}}
+</ref>||
+|-
+|{{flagicon|Vatican City}} [[Demographics of Vatican City|Vatican City]]
+| {{n+p|882|{{worldpop}}|sigfig=1|disp=table}} || {{dts|31 December 2024|abbr=on}}
+| Official figure<ref name=va>{{cite web |url=https://www.vaticanstate.va/it/stato-governo/note-generali/popolazione.html |title=Population |publisher=Vatican City State |date=31 December 2024 |website=www.vaticanstate.va |language=it}}</ref> || {{efn|882 residents regardless of citizenship, 618 citizens regardless of residence, 246 resident citizens.<ref name=va/>}}
+|- class=static-row-numbers-norank
+| [[Cocos (Keeling) Islands]] (Australia)
+| {{n+p|593|{{worldpop}}|sigfig=1|disp=table}} || {{dts|30 June 2020|abbr=on}}
+| 2021 Census<ref>{{cite web |url=https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51860 |title=2021 Cocos Islands, Census All persons QuickStats &#124; Australian Bureau of Statistics |website=www.abs.gov.au |access-date=16 November 2022 |archive-date=16 November 2022 |archive-url=https://web.archive.org/web/20221116101418/https://www.abs.gov.au/census/find-census-data/quickstats/2021/LGA51860 |url-status=live}}</ref>||
+|- class=static-row-numbers-norank
+|{{flagicon|Pitcairn Islands}} [[Demographics of the Pitcairn Islands|Pitcairn Islands]] (UK)
+| {{n+p|35|{{worldpop}}|sigfig=1|disp=table}} || {{dts|1 July 2023|abbr=on}}
+| Official estimate<ref>{{cite web |url= https://www.immigration.pn/life-on-pitcairn-island |title=Life on Pitcairn — Pitcairn Island Immigration |publisher=Government of the Pitcairn Islands|access-date=18 July 2024 |date=2023}}</ref>||
+|}
+
+== See also ==
+* [[List of countries by population (United Nations)]]
+* [[Demographics of the world]]
+* [[List of countries and dependencies by area]]
+* [[List of countries and dependencies by population density]]
+* [[List of countries by population growth rate]]
+* [[List of countries by number of births]]
+
+== Explanatory notes ==
+{{notelist}}
+
+== References ==
+{{Reflist}}
+
+{{Lists of countries by population statistics}}
+{{World topic}}
+
+[[Category:Lists of countries by population|*]]
