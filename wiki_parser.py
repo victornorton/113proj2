@@ -92,10 +92,11 @@ def fetch_wikitext() -> str:
 
     # requests.get() sends an HTTP GET request — like your browser visiting a URL.
     # The response object holds the status code and body of the reply.
-    response = requests.get(WIKIPEDIA_API_URL, timeout=10)
+    response = requests.get(WIKIPEDIA_API_URL, headers=headers, timeout=10)
 
     # HTTP status 200 means "OK". Anything else (404, 500, etc.) is a problem.
     if response.status_code != 200:
+        print(response.text[:500])
         raise RuntimeError(
             f"Wikipedia API returned status code {response.status_code}. "
             "Check your internet connection or the article name."
@@ -122,91 +123,48 @@ def fetch_wikitext() -> str:
 # ---------------------------------------------------------------------------
 
 def parse_top_countries(wikitext: str, top_n: int = TOP_N) -> list[str]:
-    """
-    Parses raw Wikipedia wikitext to extract the top N country names by
-    population, in ranked order.
-
-    HOW THE WIKITEXT TABLE WORKS:
-    Wikipedia tables use a specific markup syntax. Each row starts with "|-"
-    and cells are separated by "||" or start with "|". A typical data row
-    for a country looks roughly like this (simplified):
-
-        |-
-        | 1 || {{flag|China}} || ... population figures ...
-
-    The country name is wrapped in a template like {{flag|China}} or
-    {{flagcountry|United States}}. We use a regular expression (regex) to
-    find these templates and pull out the country name.
-
-    Args:
-        wikitext: The raw wikitext string from the Wikipedia API.
-        top_n:    How many countries to extract (default 20).
-
-    Returns:
-        A list of country name strings, normalised to lowercase, in rank order.
-    """
-
-    # A regex pattern to find country names inside flag templates.
-    # Breakdown of the pattern:
-    #   \{\{          → matches the literal opening "{{"
-    #   flag[^\|]*    → matches "flag", "flagcountry", "flagdeco", etc. (any flag template)
-    #   \|            → matches the "|" separator inside the template
-    #   ([^\|\}]+)    → CAPTURE GROUP: the country name (anything that isn't "|" or "}")
-    #   [\|\}]        → matches the next "|" or "}" that ends the name
-    #
-    # Example match: {{flag|India}} → captures "India"
-    flag_pattern = re.compile(r"\{\{flag[^\|]*\|([^\|\}]+)[\|\}]", re.IGNORECASE)
-
-    # We also want to capture rank numbers so we can confirm we're reading rows
-    # in order. Rows with a rank number look like: | 1 || or | 1\n
-    rank_pattern = re.compile(r"^\|\s*(\d+)\s*[\|\n]", re.MULTILINE)
-
-    # Split the wikitext into lines for row-by-row processing.
-    # Table rows begin with "|-", so we split on that to get individual rows.
+    # Split the wikitext into table rows. Each row begins with "|-"
     rows = wikitext.split("|-")
 
-    countries = []  # We'll build up our list here
+    # This pattern matches Wikipedia internal links of the form:
+    # [[Some Article Title|Display Name]]
+    # We capture the display name (the part after the "|")
+    # The \[\[ and \]\] match literal double square brackets
+    link_pattern = re.compile(r"\[\[[^\]]+\|([^\]]+)\]\]")
+
+    # This pattern checks whether a row contains a flagicon template,
+    # which is how we identify rows that represent a country.
+    # Every country row starts with {{flagicon|Country Name}}
+    flagicon_pattern = re.compile(r"\{\{flagicon\|", re.IGNORECASE)
+
+    countries = []
 
     for row in rows:
-        # Stop once we have enough countries
         if len(countries) >= top_n:
             break
 
-        # Check if this row contains a rank number in the expected range.
-        # This helps us skip header rows, footer rows, and footnotes.
-        rank_match = rank_pattern.search(row)
-        if not rank_match:
-            continue  # No rank found — skip this row
-
-        rank = int(rank_match.group(1))
-
-        # We only care about ranks 1 through top_n
-        if rank < 1 or rank > top_n:
+        # Skip rows that don't contain a flagicon — these are headers,
+        # footers, or other non-country rows
+        if not flagicon_pattern.search(row):
             continue
 
-        # Look for a flag template in this row to get the country name
-        flag_match = flag_pattern.search(row)
-        if not flag_match:
-            continue  # No country name found in this row — skip
+        # Find all internal links in this row and take the first one,
+        # which corresponds to the country name
+        matches = link_pattern.findall(row)
+        if not matches:
+            continue
 
-        # Extract and clean the country name
-        country_name = flag_match.group(1).strip()
-
-        # Normalise to lowercase so comparisons are case-insensitive
-        country_name_normalised = country_name.lower()
-
-        countries.append(country_name_normalised)
-        print(f"  #{rank:>2}: {country_name}")
+        country_name = matches[0].strip().lower()
+        countries.append(country_name)
+        print(f"  #{len(countries):>2}: {country_name}")
 
     if len(countries) < top_n:
         print(
             f"\nWARNING: Only found {len(countries)} countries instead of {top_n}. "
-            "The Wikipedia article structure may have changed. "
-            "You may need to update the regex patterns in parse_top_countries()."
+            "You may need to inspect more rows in wikitext_sample.txt."
         )
 
     return countries
-
 
 # ---------------------------------------------------------------------------
 # Step 3: Normalise a user's guess for comparison
@@ -272,8 +230,12 @@ def check_guess(guess: str, top_countries: list[str]) -> dict:
 if __name__ == "__main__":
     # Fetch and parse the list
     wikitext = fetch_wikitext()
+    
+
+
     print("\nParsing top 20 countries...\n")
     top_countries = parse_top_countries(wikitext)
+
 
     print(f"\nFinal list ({len(top_countries)} countries):")
     for i, country in enumerate(top_countries, start=1):
